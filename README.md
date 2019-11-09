@@ -2,7 +2,7 @@
 -----------------------------------------
 
 
-<img src="images/machine-learning-words.png"/>
+<img src="images/machine-learning-words.png" width="500" height="500" alt="Computer Hope">
 
 
 [Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
@@ -72,6 +72,8 @@ The main focus of this class is to cover the following concepts:
 * Linear Regression
 	* scikit-learn
 	* Spark ML
+	* machine_learning_algorithms_from_scratch_SLR_sample_chapter.pdf
+	*
 * Logistic Regression
 	* scikit-learn
 	* Spark ML
