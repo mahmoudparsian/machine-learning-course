@@ -2,7 +2,7 @@
 -----------------------------------------
 
 
-<img src="images/machine-learning-words.png" width="500" height="500" alt="Computer Hope">
+<img src="images/machine-learning-words.png" width="500" height="300" alt="Machine Learning">
 
 
 [Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
