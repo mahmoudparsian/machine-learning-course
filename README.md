@@ -40,18 +40,12 @@
 * [Apache Spark Machine Learning](http://spark.apache.org/mllib/)
 
 
-
-## [Syllabus](./syllabus/winter-2020/)
 ----------------------------
 
-
-## Midterm Exam:
-* Midterm Exam Date: **TBDL 2020**
-* Midterm Exam Time: **TBDL PST**
-
 ## Final Exam: 
-* Final Exam Date: **TBDL 2020**
-* Final Exam Time: **TBDL PST**
+* Final Exam Date: **TBDL March, 2020**
+* Final Exam Time: **TBDL 5:30-7:30 PST**
+
 
 ----------------------------
 
@@ -67,6 +61,7 @@ treatment. The course will prepare participants for more rigorous
 analysis of large data sets as well as introduce machine learning 
 models and data analytics for business intelligence.
 
+### Main Focus
 The main focus of this class is to cover the following concepts:
 
 * Basic concepts of Machine Learning
