@@ -35,8 +35,9 @@
 
 ## Required Software: 
 
-* [scikit-learn - Machine Learning in Python](https://scikit-learn.org/stable/)
+* [Scikit-Learn - Machine Learning in Python](https://scikit-learn.org/stable/)
 * [Apache Spark Site](http://spark.apache.org/)
+* [Apache Spark Machine Learning](http://spark.apache.org/mllib/)
 
 
 
@@ -69,27 +70,38 @@ models and data analytics for business intelligence.
 The main focus of this class is to cover the following concepts:
 
 * Basic concepts of Machine Learning
+	* Supervised learning
+	* Unsupervised learning
+	* Supervised learning
+	
 * Linear Regression
 	* scikit-learn
 	* Spark ML
 	* machine_learning_algorithms_from_scratch_SLR_sample_chapter.pdf
-	*
+	
 * Logistic Regression
 	* scikit-learn
 	* Spark ML
+	
 * Principal Component Analysis (PCA)
 	* scikit-learn
 	* Spark ML
+	
 * Clustering
 	* K-means
 	* Latent Dirichlet allocation (LDA)
 	* scikit-learn
 	* Spark ML
 
-
+* Frequent Pattern Mining
+	* FP-Growth
+	* PrefixSpan
 
 ---------------------------
 
+## [Project](./project/README.md)
+
+---------------------------
 
 ## My latest books: 
 
