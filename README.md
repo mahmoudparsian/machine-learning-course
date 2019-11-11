@@ -5,7 +5,7 @@
 <img src="images/machine-learning-words.png" width="500" height="300" alt="Machine Learning">
 
 
-[Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
+[Machine Learning Course @SCU](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
 ----------------------------
 
 ## Winter 2020
