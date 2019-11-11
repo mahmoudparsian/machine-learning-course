@@ -13,11 +13,11 @@
 * Graduate School, Leavey School of Business
 * Department of Information Systems & Analytics
 * Class meeting dates: 
-	* Start: January, 2020
-	* End: March, 2020
+	* Start: January 6, 2020
+	* End: March 19, 2020
 * Class hours:  
-	* Monday 5:45:00 PM 7:20:00 PM
-	* Wednesday 5:45:00 PM 7:20:00 PM
+	* Tuesday 5:45 PM - 7:20 PM
+	* Thursday 5:45 PM 7:20 PM
 * Instructor: [Mahmoud Parsian](https://www.scu.edu/business/isa/faculty/parsian/)
 * Class room: Lucas Hall 307 
 * Office: 216AA, 2nd Floor, Lucas Hall
@@ -67,7 +67,7 @@ The main focus of this class is to cover the following concepts:
 * Basic concepts of Machine Learning
 	* Supervised learning
 	* Unsupervised learning
-	* Supervised learning
+	* Reinforcement learning
 	
 * Linear Regression
 	* scikit-learn
