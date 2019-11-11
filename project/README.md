@@ -2,14 +2,21 @@
 
 To bring together and apply the various topics 
 covered in this course, you will work on a machine 
-learning project. The goal of the project is to go 
+learning project. 
+
+* The goal of the project is to go 
 through the complete knowledge discovery process 
 to answer one or more questions you have about a 
-topic of your own choosing. You will acquire the 
-training data, query data, formulate a question 
-(or questions) of interest, perform the data analysis 
-(using machine learning algorithms), and communicate 
-the results.
+topic of your own choosing. 
+
+* You will acquire the training data, cleaning data, 
+query data, formulate a question  (or questions) of 
+interest, perform the building model and data analysis 
+(using machine learning algorithms), and 
+
+* Communicate the results to the class by a series 
+of writings and presentations
+
 
 # Project Team
 
