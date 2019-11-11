@@ -168,10 +168,10 @@ To submit your project deliverables,
 and place your deliverables in designated folders 
 (place your files in specific folders). 
 
-* The folder should include your project 
-paper (Word or PDF format), presentation 
-materials, and all code and output used 
-to generate results. 
+* The folder should include 
+	* Your project paper (Word or PDF format), 
+	* Presentation materials, and 
+	* All data, code and output used to generate results. 
 
 * If I cannot access your work because 
 these directions are not followed correctly, 
