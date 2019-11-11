@@ -25,13 +25,18 @@ Students are encouraged to work in teams of 3–4
 
 # Project Milestones
 
-There are a few milestones for your final project. 
-It is critical to note that no extensions will be 
-given for any of the project due dates for any reason. 
-Projects submitted after the final due date will not 
-be graded. If you anticipate any issues you need to 
-send an email to the instructor at least one week in 
-advance. 
+* There are a few milestones for your final project. 
+
+* It is critical to note that no extensions will be 
+given for any of the project due dates for any reason.
+ 
+* Projects submitted after the final due date will not 
+be graded. 
+
+* If you anticipate any issues you need to 
+send an email to the instructor at least one 
+week in advance.
+ 
 
 ## Due Dates
 Unless otherwise announced, all submission 
