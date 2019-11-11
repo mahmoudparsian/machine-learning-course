@@ -148,12 +148,20 @@ from the instructor prior to the final paper deadline.
 	* Organization (5%) 
 	* Grammar (5%)
 
+
 # Submission Instructions
-To submit your project deliverables, create a GIT repository 
-and place you deliverables in designated folders (place your 
-files in specific folders). The folder should include your project 
-paper (Word or PDF format), presentation materials, and all code and 
-output used to generate results. If I cannot access your work because 
-these directions are not followed correctly, I will not grade your 
-work. 
+To submit your project deliverables, 
+
+* create a [GitHub](https://github.com) repository 
+and place your deliverables in designated folders 
+(place your files in specific folders). 
+
+* The folder should include your project 
+paper (Word or PDF format), presentation 
+materials, and all code and output used 
+to generate results. 
+
+* If I cannot access your work because 
+these directions are not followed correctly, 
+I will not grade your work. 
 
