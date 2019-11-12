@@ -39,6 +39,7 @@
 * [Apark-SKlearn](https://github.com/databricks/spark-sklearn)
 * [Apache Spark](http://spark.apache.org/)
 * [Apache Spark Machine Learning](http://spark.apache.org/mllib/)
+* [handson-ml2](https://github.com/ageron/handson-ml2)
 
 
 ----------------------------
