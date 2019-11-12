@@ -36,7 +36,8 @@
 ## Required Software: 
 
 * [Scikit-Learn - Machine Learning in Python](https://scikit-learn.org/stable/)
-* [Apache Spark Site](http://spark.apache.org/)
+* [Apark-SKlearn](https://github.com/databricks/spark-sklearn)
+* [Apache Spark](http://spark.apache.org/)
 * [Apache Spark Machine Learning](http://spark.apache.org/mllib/)
 
 
