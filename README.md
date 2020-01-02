@@ -5,7 +5,17 @@
 <img src="images/machine-learning-words.png" width="500" height="300" alt="Machine Learning">
 
 
+----------------------------
+
+
+<img src="images/machine_learning.jpg" width="500" height="300" alt="Machine Learning">
+
+-----------------------------
+
+
 [Machine Learning Course @SCU](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
+
+
 ----------------------------
 
 ## Winter 2020
@@ -19,7 +29,7 @@
 	* Tuesday 5:45 PM - 7:20 PM
 	* Thursday 5:45 PM 7:20 PM
 * Instructor: [Mahmoud Parsian](https://www.scu.edu/business/isa/faculty/parsian/)
-* Class room: Lucas Hall 307 
+* Class room: Lucas Hall 206 
 * Office: 216AA, 2nd Floor, Lucas Hall
 * Office Hours: by appointment
 
@@ -45,8 +55,8 @@
 ----------------------------
 
 ## Final Exam: 
-* Final Exam Date: **TBDL March, 2020**
-* Final Exam Time: **TBDL 5:30-7:30 PST**
+* Final Exam Date: **TBDL March 2020**
+* Final Exam Time: **TBDL March 2020**
 
 
 ----------------------------
@@ -54,16 +64,22 @@
 
 ## Course Description
 
-This course introduces participants to quantitative techniques 
-and algorithms that are based on big data (numerical and textual) 
-or are theoretical models of big systems or optimization that are 
-currently being used widely in business. It introduces topics that 
-are often qualitative but that are now amenable to quantitative 
-treatment. The course will prepare participants for more rigorous 
-analysis of large data sets as well as introduce machine learning 
-models and data analytics for business intelligence.
+* This course introduces participants to quantitative 
+  techniques and algorithms that are based on big data 
+  (numerical and textual) or are theoretical models of 
+  big systems or optimization that are currently being 
+  used widely in business. 
+
+* It introduces topics that are often qualitative but 
+  that are now amenable to quantitative treatment. 
+  
+* The course will prepare participants for more rigorous 
+  analysis of large data sets as well as introduce machine 
+  learning models and data analytics for business intelligence.
+
 
 ### Main Focus
+
 The main focus of this class is to cover the following concepts:
 
 * Basic concepts of Machine Learning
