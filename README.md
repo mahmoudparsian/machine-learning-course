@@ -1,5 +1,10 @@
+## Winter 2020
+
+---------------
+
 [Santa Clara University](http://scu.edu/)
------------------------------------------
+
+---------------
 
 
 <img src="images/machine-learning-words.png" width="500" height="300" alt="Machine Learning">
@@ -8,7 +13,7 @@
 ----------------------------
 
 
-<img src="images/machine_learning.jpg" width="500" height="300" alt="Machine Learning">
+<img src="images/machine_learning.jpg"  alt="Machine Learning">
 
 -----------------------------
 
@@ -18,7 +23,7 @@
 
 ----------------------------
 
-## Winter 2020
+
 ## Course MSIS 2631: Machine Learning
 * Graduate School, Leavey School of Business
 * Department of Information Systems & Analytics
