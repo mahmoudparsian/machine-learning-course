@@ -111,6 +111,10 @@ The main focus of this class is to cover the following concepts:
 	* scikit-learn
 	* Spark ML
 
+* Support Vector Machines (SVM)
+	* scikit-learn
+	* Spark ML
+
 * Frequent Pattern Mining
 	* FP-Growth
 	* PrefixSpan
