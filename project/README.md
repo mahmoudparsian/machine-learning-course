@@ -4,9 +4,8 @@ To bring together and apply the various topics
 covered in this course, you will work on a machine 
 learning project. 
 
-* Implementation of ML Project:
-
-You will implement your ML solution using 2 APIs:
+* Implementation of ML Project: You will implement 
+your ML solution using 2 APIs:
 	* [SciKit](https://scikit-learn.org/stable/)
 	* [Spark ML](http://spark.apache.org/mllib/) 
 
