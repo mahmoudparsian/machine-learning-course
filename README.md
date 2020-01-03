@@ -121,7 +121,7 @@ The main focus of this class is to cover the following concepts:
 
 ---------------------------
 
-## [Project](./project/README.md)
+## [Machine Learning Project](./project/README.md)
 
 ---------------------------
 
