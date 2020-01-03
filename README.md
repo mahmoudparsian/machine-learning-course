@@ -125,20 +125,26 @@ The main focus of this class is to cover the following concepts:
 
 ---------------------------
 
-## My latest books: 
+## Mahmoud Parsian's Latest Books: 
 
+### PySpark Algorithms Book
 
-[PySpark Algorithms Book](https://www.amazon.com/dp/B07X4B2218/ref=sr_1_2)
-======================
-PySpark Algorithms
+<a href="https://www.amazon.com/PySpark-Algorithms-Version-Mahmoud-Parsian-ebook/dp/B07X4B2218/">
+    <img 
+        alt="PySpark Algorithms Book" 
+        src="images/pyspark_algorithms.jpg"
+        width="550" 
+        height="500"
+    >
+</a>
 
-[![PySpark Algorithms Book](images/pyspark_algorithms.jpg)](https://www.amazon.com/PySpark-Algorithms-Version-Mahmoud-Parsian-ebook/dp/B07X4B2218/)
+### Data Algorithms Book
 
-
-
-[Data Algorithms Book](http://shop.oreilly.com/product/0636920033950.do)
-======================
-Data Algorithms: Recipes for Scaling up with Hadoop and Spark
-
-[![Data Algorithms Book](images/large-image.jpg)](http://shop.oreilly.com/product/0636920033950.do)
-
+<a href="http://shop.oreilly.com/product/0636920033950.do">
+    <img 
+        alt="Data Algorithms Book" 
+        src="images/large-image.jpg"
+        width="550" 
+        height="700"
+    >
+</a>
