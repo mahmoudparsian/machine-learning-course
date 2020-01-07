@@ -83,7 +83,7 @@
   learning models and data analytics for business intelligence.
 
 
-### Main Focus
+## Main Focus
 
 The main focus of this class is to cover the following concepts:
 
@@ -119,6 +119,9 @@ The main focus of this class is to cover the following concepts:
 	* FP-Growth
 	* PrefixSpan
 
+---------------------------
+
+## [Machine Learning Syllabus](./syllabus/winter-2020/)
 ---------------------------
 
 ## [Machine Learning Project](./project/README.md)
