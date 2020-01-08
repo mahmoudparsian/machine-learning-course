@@ -1,20 +1,26 @@
 # Session 1, January 7, 2020
 
-### [Apache Spark Machine Learning Tutorial](https://mapr.com/blog/apache-spark-machine-learning-tutorial/)
+* Team Building to Build ML Solution
+	* 7 teams
+	* Each Team: 3-4 members
 
-### [Getting started with Apache Spark eBook](https://mapr.com/ebook/getting-started-with-apache-spark-v2/assets/Spark2018eBook.pdf)
+* [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
 
-### [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
+* [Apache Spark Machine Learning Tutorial](https://mapr.com/blog/apache-spark-machine-learning-tutorial/)
+
+* [Getting started with Apache Spark eBook](https://mapr.com/ebook/getting-started-with-apache-spark-v2/assets/Spark2018eBook.pdf)
+
+* [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 
 # Session 2, January 9, 2020
 
-### Introduction to Linear Regression
+* Introduction to Linear Regression
 
 # Session 3, January 14, 2020
 
-### Introduction to Linear Regression: scikit-learn
+* Introduction to Linear Regression: scikit-learn
 
 # Session 4, January 16, 2020
 
-### Introduction to Linear Regression: Spark-ML
+* Introduction to Linear Regression: Spark-ML
 
