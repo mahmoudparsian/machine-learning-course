@@ -3,6 +3,8 @@
 * Team Building for Implementing an ML Solution
 	* 7 teams
 	* Each Team: 3-4 members
+	
+* [Machine Learning 101 - AWS Machine Learning Web Day](https://www.slideshare.net/AWSAktuell/machine-learning-101-aws-machine-learning-web-day)
 
 * [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
 
