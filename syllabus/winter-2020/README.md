@@ -1,6 +1,6 @@
 # Session 1, January 7, 2020
 
-* Team Building to Build ML Solution
+* Team Building for Implementing an ML Solution
 	* 7 teams
 	* Each Team: 3-4 members
 
