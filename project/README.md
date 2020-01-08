@@ -50,8 +50,8 @@ deadlines are at 11:59pm PST on the assigned due date.
 
 | Date                  | Deliverable            |
 |-----------------------|------------------------|
-| January 15, 2020      | Project proposals due  |
-| January 20, 2020      | Project review meeting |
+| January 16, 2020      | Project proposals due  |
+| January 21, 2020      | Project review meeting |
 | TBDL                  | Draft paper due        | 
 | TBDL                  | Project presentations  |
 | TBDL                  | Final deliverables due |
