@@ -19,7 +19,8 @@
 # Session 2, January 9, 2020
 
 * Introduction to Linear Regression
-	* [Linear Regression Algorithm: Machine Learning Algorithm](https://www.youtube.com/watch?v=E5RjzSK0fvY)
+	* [Linear Regression in a nutshell -- video](https://www.youtube.com/watch?v=OtgmQvE5gug)
+	* [Linear Regression Algorithm: Machine Learning Algorithm -- video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
 	* [Linear Regression 101 (Part 1 - Basics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Basics/)
 	* [Linear Regression 101 (Part 2 - Metrics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Metrics/)
 
