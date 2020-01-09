@@ -14,15 +14,25 @@
 
 * [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 
+-----------
+
 # Session 2, January 9, 2020
 
 * Introduction to Linear Regression
+	* [Linear Regression Algorithm: Machine Learning Algorithm](https://www.youtube.com/watch?v=E5RjzSK0fvY)
+	* [Linear Regression 101 (Part 1 - Basics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Basics/)
+	* [Linear Regression 101 (Part 2 - Metrics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Metrics/)
+
+----------
 
 # Session 3, January 14, 2020
 
+----------
 * Introduction to Linear Regression: scikit-learn
 
 # Session 4, January 16, 2020
 
 * Introduction to Linear Regression: Spark-ML
+
+--------
 
