@@ -42,3 +42,40 @@
 
 --------
 
+# Session 5, January 21, 2020
+* Logistic Regression
+	* [Logistic Regression: Machine Learning Algorithm -- video ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+
+Good:
+
+27 slides
+~/zmp/github/machine-learning-course/zdocs/logistic_regression/Logistic_Regression_slides_GOOD.pdf
+
+Good: 
+Understanding Logistic Regression in Python
+Learn about Logistic Regression, its basic properties, and build a machine learning model on a real-world application in Python.
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+
+
+Logistic Regression using Python (scikit-learn)
+https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
+
+
+Building A Logistic Regression in Python, Step by Step
+https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/
+
+Logistic Regression: A Concise Technical Overview
+https://www.kdnuggets.com/2018/02/logistic-regression-concise-technical-overview.html
+
+Understanding Logistic Regression step by step
+Training a logistic regression classifier to predict people’s gender based on their weight and height.
+https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
+
+Spark ML:
+Logistic Regression in Spark ML
+logistic-regression-in-spark-ml
+https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c
+
+
+
+-------
