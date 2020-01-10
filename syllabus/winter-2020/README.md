@@ -14,6 +14,8 @@
 
 * [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 
+* [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+
 -----------
 
 # Session 2, January 9, 2020
@@ -27,9 +29,12 @@
 ----------
 
 # Session 3, January 14, 2020
+* Introduction to Linear Regression: 
+	* [Linear Regression in Python with Scikit-Learn](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
+	* Demo of Linear Regression with Jupyter
+
 
 ----------
-* Introduction to Linear Regression: scikit-learn
 
 # Session 4, January 16, 2020
 
