@@ -29,52 +29,31 @@
 ----------
 
 # Session 3, January 14, 2020
-* Introduction to Linear Regression: 
-	* [Linear Regression in Python with Scikit-Learn](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
-	* Demo of Linear Regression with Jupyter
-
-
-----------
-
-# Session 4, January 16, 2020
 
 * Introduction to Linear Regression: Spark-ML
 
+	* [Introduction to Spark & Spark ML]()
+
+	* [Introduction to Spark ML -- video -- 14 minutes](https://www.youtube.com/watch?v=32q7Gn9XjiU)
+	
+	* [Apache Spark Tutorial: ML with PySpark](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning)
+	  
+	* [Building A Linear Regression with PySpark and MLlib by Susan Li](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
+
+
 --------
 
-# Session 5, January 21, 2020
+# Session 4, January 16, 2020
+
 * Logistic Regression
 	* [Logistic Regression: Machine Learning Algorithm -- video ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
-
-Good:
-
-27 slides
-~/zmp/github/machine-learning-course/zdocs/logistic_regression/Logistic_Regression_slides_GOOD.pdf
-
-Good: 
-Understanding Logistic Regression in Python
-Learn about Logistic Regression, its basic properties, and build a machine learning model on a real-world application in Python.
-https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
-
-
-Logistic Regression using Python (scikit-learn)
-https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
-
-
-Building A Logistic Regression in Python, Step by Step
-https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/
-
-Logistic Regression: A Concise Technical Overview
-https://www.kdnuggets.com/2018/02/logistic-regression-concise-technical-overview.html
-
-Understanding Logistic Regression step by step
-Training a logistic regression classifier to predict people’s gender based on their weight and height.
-https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
-
-Spark ML:
-Logistic Regression in Spark ML
-logistic-regression-in-spark-ml
-https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c
+    * [Logistic Regression Details Pt1: Coefficients -- video](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+	* [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
+	* [Logistic Regression using Python (scikit-learn)](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
+	* [Building A Logistic Regression in Python, Step by Step](https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/)
+	* [Logistic Regression: A Concise Technical Overview](https://www.kdnuggets.com/2018/02/logistic-regression-concise-technical-overview.html)
+	* [Understanding Logistic Regression step by step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)
+	* [Spark ML: Logistic Regression](https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c)
 
 
 
