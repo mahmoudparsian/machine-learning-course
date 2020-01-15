@@ -32,10 +32,14 @@
 
 * Introduction to Linear Regression: Spark-ML
 
-	* [Introduction to Spark & Spark ML]()
+	* Team building
+
+	* [Introduction to Spark](./docs/intro_to_spark_databricks.pdf)
 
 	* [Introduction to Spark ML -- video -- 14 minutes](https://www.youtube.com/watch?v=32q7Gn9XjiU)
 	
+	* [PySpark DataFrame Tutorial](https://www.edureka.co/blog/pyspark-dataframe-tutorial/)
+
 	* [Apache Spark Tutorial: ML with PySpark](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning)
 	  
 	* [Building A Linear Regression with PySpark and MLlib by Susan Li](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
