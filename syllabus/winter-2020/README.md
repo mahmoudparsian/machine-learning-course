@@ -59,6 +59,22 @@
 	* [Understanding Logistic Regression step by step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)
 	* [Spark ML: Logistic Regression](https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c)
 
+* Order of Lecture: 
 
+1. [Watch a video: Logistic regression: 9 minutes](https://www.youtube.com/watch?v=yIYKR4sgzI8)
 
+2. [INTRO_LOGISTIC_REGRESSION by Mahmoud Parsian](../../docs/logistic_regression/MP_INTRO_LOGISTIC_REGRESSION.txt.pdf)
+  
+3. [Watch a video: Logistic Regression: 19 minutes](https://www.youtube.com/watch?v=vN5cNN2-HWE&t=592s)
+ 
+4. [LOGISTIC_REGRESSION slides -- 27](../../docs/logistic_regression/Logistic_Regression_slides_GOOD.pdf)
+  
+5. [Logistic Regression in Python: 53 minutes video -- watch at home](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+      
+6. Working Examples:
+	* [Spam_Detection_with_Logistic_Regression with scikit -- blog](https://towardsdatascience.com/spam-detection-with-logistic-regression-23e3709e522)
+	* [Spam_Detection_with_Logistic_Regression with scikit -- jupyter](https://github.com/SharmaNatasha/Machine-Learning-using-Python/blob/master/Classification%20project/Spam_Detection.ipynb)
+	* [Spam_Detection_with_Logistic_Regression with Spark -- blog](https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f)
+      
+ 
 -------
