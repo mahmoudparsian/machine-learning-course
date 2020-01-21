@@ -172,6 +172,9 @@
 -------
 
 # Session 6, January 21, 2020
+### Project Presentations
+
+--------
 
 # Session 7, January 23, 2020: K-means
 
