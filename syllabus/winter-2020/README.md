@@ -139,6 +139,10 @@
 
 * [Spark ML: Logistic Regression](https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c)
 
+https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f
+
+https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
+
 * Introduction to K-means
 
 ----------
@@ -326,3 +330,21 @@
 
 * [Handling Non-Numeric Data (16 minutes video)](https://www.youtube.com/watch?v=8p6XaQSIFpY&feature=youtu.be)
 
+
+--------
+
+# Session 8, PCA
+
+--------
+
+# Session 9, LDA
+
+-------
+
+# Session 10: SVM
+
+-------
+
+# Session 11: Frequent Pattern Mining
+
+-------
