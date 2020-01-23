@@ -139,9 +139,12 @@
 
 * [Spark ML: Logistic Regression](https://medium.com/@dhiraj.p.rai/logistic-regression-in-spark-ml-8a95b5f5434c)
 
+<!--
+spam/nospam: 
 https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f
-
+https://towardsdatascience.com/spam-detection-with-logistic-regression-23e3709e522
 https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
+-->
 
 * Introduction to K-means
 
