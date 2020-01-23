@@ -1,88 +1,17 @@
-# Session 1, January 7, 2020
 
-* Team Building for Implementing an ML Solution
-	* 7 teams
-	* Each Team: 3-4 members
-	
-* [Machine Learning 101 - AWS Machine Learning Web Day](https://www.slideshare.net/AWSAktuell/machine-learning-101-aws-machine-learning-web-day)
-
-* [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
-
-* [Apache Spark Machine Learning Tutorial](https://mapr.com/blog/apache-spark-machine-learning-tutorial/)
-
-* [Getting started with Apache Spark eBook](https://mapr.com/ebook/getting-started-with-apache-spark-v2/assets/Spark2018eBook.pdf)
-
-* [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
-
-* [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+# [Session 1, January 7, 2020: Introduction to Machine Learning](./docs/introduction/README.md)
 
 -----------
 
-# Session 2, January 9, 2020: Linear Regression
-
-* Introduction to Linear Regression
-	* [Linear Regression in a nutshell -- video](https://www.youtube.com/watch?v=OtgmQvE5gug)
-	* [Linear Regression Algorithm: Machine Learning Algorithm -- video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
-	* [Linear Regression 101 (Part 1 - Basics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Basics/)
-	* [Linear Regression 101 (Part 2 - Metrics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Metrics/)
+# [Session 2, January 9, 2020: Linear Regression](./docs/linear_regression/README.md)
 
 ----------
 
-# Session 3, January 14, 2020
-
-### Introduction to Linear Regression: Spark-ML
-
-1. Team building
-
-2. [Introduction to Spark](./docs/intro_to_spark_databricks.pdf)
-
-3. [Introduction to Spark ML -- video -- 14 minutes](https://www.youtube.com/watch?v=32q7Gn9XjiU)
-	
-4. [PySpark DataFrame Tutorial](https://www.edureka.co/blog/pyspark-dataframe-tutorial/)
-
-5. [Apache Spark Tutorial: ML with PySpark](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning)
-	  
-6. [Building A Linear Regression with PySpark and MLlib by Susan Li](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
-
-
-### Linear Regression Examples
-
-1. [How to do a linear regression with sklearn](https://tutorials.technology/tutorials/19-how-to-do-a-regression-with-sklearn.html)
-
-2. [From Simple to Multiple Linear Regression with Python and scikit](https://sweetcode.io/simple-multiple-linear-regression-python-scikit/)
-
-3. [Example of Regression Analysis Using the Boston Housing Data Set: GOOD Example](http://facweb.cs.depaul.edu/mobasher/classes/CSC478/Notes/IPython%20Notebook%20-%20Regression.html)
-
-4. [A simple linear regression](https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_linear_regression.html)
-
-5. [Beginner Scikit-learn Linear Regression Tutorial](https://www.kaggle.com/andyxie/beginner-scikit-learn-linear-regression-tutorial)
-
-6. [Implementing and Visualizing Linear Regression in Python with SciKit Learn](https://becominghuman.ai/implementing-and-visualizing-linear-regression-in-python-with-scikit-learn-a073768dc688)
-  
-7. [Linear Regression in Python using scikit-learn](http://benalexkeen.com/linear-regression-in-python-using-scikit-learn/)
-
-8. [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html)
-
-9. [A beginner’s guide to Linear Regression in Python with Scikit-Learn](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
-
-10. [How to run Linear regression in Python scikit-Learn](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
-
-11. [Linear, Lasso, and Ridge Regression with scikit-learn](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
-
-12. [Linear Regression in Python – Simple and Multiple Linear Regression](https://intellipaat.com/blog/what-is-linear-regression/)
-
-13. [Python | Linear Regression using sklearn](https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/)
-
-14. [Linear Regression Algorithm from Scratch -- DETAILED](https://www.edureka.co/blog/linear-regression-in-python/)
-
-15. [O'Reilly: Very good detailed Linear Regression Tutorial -- Training Models](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch04.html)
-
-16. [Evaluating a Linear Regression Model -- Detailed Good Example](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
-
+# [Session 3, January 14, 2020: Logistic Regression -- scikit](./docs/logistic_regression/README.md)
 
 --------
 
-# Session 4, January 16, 2020
+# [Session 4, January 16, 2020: Logistic Regression -- scikit](./docs/logistic_regression/README.md)
 
 * Logistic Regression
 	* [Logistic Regression: Machine Learning Algorithm -- video ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
