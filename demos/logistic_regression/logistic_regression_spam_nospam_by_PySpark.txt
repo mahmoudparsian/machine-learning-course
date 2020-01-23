@@ -1,0 +1,196 @@
+$ head ham.csv
+ham,"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...",,,
+ham,Ok lar... Joking wif u oni...,,,
+ham,U dun say so early hor... U c already then say...,,,
+ham,"Nah I don't think he goes to usf, he lives around here though",,,
+ham,Even my brother is not like to speak with me. They treat me like aids patent.,,,
+ham,As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,,,
+ham,"I'm gonna be home soon and i don't want to talk about this stuff anymore tonight, k? I've cried enough today.",,,
+ham,I've been searching for the right words to thank you for this breather. I promise i wont take your help for granted and will fulfil my promise. You have been wonderful and a blessing at all times.,,,
+ham,I HAVE A DATE ON SUNDAY WITH WILL!!,,,
+ham,Oh k...i'm watching here:),,,
+
+
+$ head spam.csv
+spam,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,,,
+spam,"FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, �1.50 to rcv",,,
+spam,WINNER!! As a valued network customer you have been selected to receivea �900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,,,
+spam,Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030,,,
+spam,"SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info",,,
+spam,"URGENT! You have won a 1 week FREE membership in our �100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18",,,
+spam,"XXXMobileMovieClub: To use your credit, click the WAP link in the next txt message or click here>> http://wap. xxxmobilemovieclub.com?n=QJKGIGHJJGCBL",,,
+spam,"England v Macedonia - dont miss the goals/team news. Txt ur national team to 87077 eg ENGLAND to 87077 Try:WALES, SCOTLAND 4txt/̼1.20 POBOXox36504W45WQ 16+",,,
+spam,Thanks for your subscription to Ringtone UK your mobile will be charged �5/month Please confirm by replying YES or NO. If you reply NO you will not be charged,,,
+spam,07732584351 - Rodger Burns - MSG = We tried to call you re your reply to our sms for a free nokia mobile + free camcorder. Please call now 08000930705 for delivery tomorrow,,,
+mparsian@Mahmouds-MacBook ~/zmp/github/machine-learning-course/data (master) $
+
+
+$ ./bin/pyspark
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43)
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /__ / .__/\_,_/_/ /_/\_\   version 2.4.4
+      /_/
+
+Using Python version 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018 02:44:43)
+SparkSession available as 'spark'.
+>>>
+>>>
+>>> spark
+<pyspark.sql.session.SparkSession object at 0x1180f5668>
+>>> spam_path = '/Users/mparsian/zmp/github/machine-learning-course/data/spam.csv'
+>>> ham_path = '/Users/mparsian/zmp/github/machine-learning-course/data/ham.csv'
+>>>
+>>>
+>>>
+>>>
+>>> spam_path
+'/Users/mparsian/zmp/github/machine-learning-course/data/spam.csv'
+>>> ham_path
+'/Users/mparsian/zmp/github/machine-learning-course/data/ham.csv'
+>>> spam = spark.sparkContext.textFile(spam_path)
+>>> spam.count()
+747
+>>> spam.take(2)
+["spam,Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,,,", 'spam,"FreeMsg Hey there darling it\'s been 3 week\'s now and no word back! I\'d like some fun you up for it still? Tb ok! XxX std chgs to send, �1.50 to rcv",,,']
+>>> ham = spark.sparkContext.textFile(ham_path)
+>>> ham.count()
+4800
+>>> ham.take(2)
+['ham,"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...",,,', 'ham,Ok lar... Joking wif u oni...,,,']
+>>> spam_words = spam.map(lambda email: email.split())
+>>> spam_words.count()
+747
+>>> spam_words.take(2)
+[['spam,Free', 'entry', 'in', '2', 'a', 'wkly', 'comp', 'to', 'win', 'FA', 'Cup', 'final', 'tkts', '21st', 'May', '2005.', 'Text', 'FA', 'to', '87121', 'to', 'receive', 'entry', 'question(std', 'txt', "rate)T&C's", 'apply', "08452810075over18's,,,"], ['spam,"FreeMsg', 'Hey', 'there', 'darling', "it's", 'been', '3', "week's", 'now', 'and', 'no', 'word', 'back!', "I'd", 'like', 'some', 'fun', 'you', 'up', 'for', 'it', 'still?', 'Tb', 'ok!', 'XxX', 'std', 'chgs', 'to', 'send,', '�1.50', 'to', 'rcv",,,']]
+>>>
+>>>
+>>> ham_words = ham.map(lambda email: email.split())
+>>> ham_words.count()
+4800
+>>> ham_words.take(2)
+[['ham,"Go', 'until', 'jurong', 'point,', 'crazy..', 'Available', 'only', 'in', 'bugis', 'n', 'great', 'world', 'la', 'e', 'buffet...', 'Cine', 'there', 'got', 'amore', 'wat...",,,'], ['ham,Ok', 'lar...', 'Joking', 'wif', 'u', 'oni...,,,']]
+>>>
+>>>
+>>>
+>>> from pyspark.mllib.feature import HashingTF
+>>> tf = HashingTF(numFeatures = 256)
+>>> spam_features = tf.transform(spam_words)
+>>> ham_features = tf.transform(ham_words)
+>>>
+>>> spam_features.count()
+747
+>>> ham_features.count()
+4800
+>>> spam_features.take(1)
+[SparseVector(256, {25: 1.0, 35: 1.0, 38: 1.0, 70: 1.0, 72: 1.0, 73: 1.0, 82: 1.0, 84: 3.0, 113: 1.0, 119: 1.0, 135: 1.0, 141: 3.0, 147: 1.0, 163: 1.0, 165: 2.0, 167: 1.0, 184: 1.0, 187: 1.0, 188: 1.0, 213: 1.0, 249: 1.0, 252: 1.0, 253: 1.0})]
+>>> ham_features.take(2)
+[SparseVector(256, {4: 1.0, 41: 1.0, 68: 1.0, 84: 1.0, 89: 1.0, 98: 1.0, 99: 1.0, 110: 1.0, 116: 1.0, 130: 1.0, 132: 1.0, 156: 2.0, 160: 1.0, 173: 1.0, 177: 1.0, 189: 1.0, 202: 1.0, 209: 1.0, 217: 1.0}), SparseVector(256, {16: 1.0, 87: 1.0, 201: 1.0, 202: 1.0, 216: 1.0, 253: 1.0})]
+>>>
+>>>
+>>>
+>>> print(spam_features.take(1))
+[SparseVector(256, {25: 1.0, 35: 1.0, 38: 1.0, 70: 1.0, 72: 1.0, 73: 1.0, 82: 1.0, 84: 3.0, 113: 1.0, 119: 1.0, 135: 1.0, 141: 3.0, 147: 1.0, 163: 1.0, 165: 2.0, 167: 1.0, 184: 1.0, 187: 1.0, 188: 1.0, 213: 1.0, 249: 1.0, 252: 1.0, 253: 1.0})]
+>>> print(ham_features.take(1))
+[SparseVector(256, {4: 1.0, 41: 1.0, 68: 1.0, 84: 1.0, 89: 1.0, 98: 1.0, 99: 1.0, 110: 1.0, 116: 1.0, 130: 1.0, 132: 1.0, 156: 2.0, 160: 1.0, 173: 1.0, 177: 1.0, 189: 1.0, 202: 1.0, 209: 1.0, 217: 1.0})]
+>>>
+>>>
+>>> from pyspark.mllib.regression import LabeledPoint
+>>> spam_samples = spam_features.map(lambda features:LabeledPoint(1, features))
+>>> ham_samples = ham_features.map(lambda features:LabeledPoint(0, features))
+>>>
+>>> spam_samples.take(1)
+[LabeledPoint(1.0, (256,[25,35,38,70,72,73,82,84,113,119,135,141,147,163,165,167,184,187,188,213,249,252,253],[1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,3.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0]))]
+>>> ham_samples.take(1)
+[LabeledPoint(0.0, (256,[4,41,68,84,89,98,99,110,116,130,132,156,160,173,177,189,202,209,217],[1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0]))]
+>>>
+>>>
+>>>
+>>>
+>>> samples = spam_samples.union(ham_samples)
+>>> samples.count()
+5547
+>>> [training_data, test_data] = samples.randomSplit([0.8, 0.2])
+>>> training_data.count()
+4378
+>>> test_data.count()
+1169
+>>> training_data.cache()
+PythonRDD[27] at RDD at PythonRDD.scala:53
+>>> test_data.cache()
+PythonRDD[28] at RDD at PythonRDD.scala:53
+>>> training_data.count()
+4378
+>>> test_data.count()
+1169
+>>>
+>>>
+>>> def score(model):
+...    predictions = model.predict(test_data.map(lambda x: x.features))
+...    labels_and_preds = test_data.map(lambda x: x.label).zip(predictions)
+...    accuracy = labels_and_preds.filter(lambda x: x[0] == x[1]).count() / float(test_data.count())
+...    return accuracy
+...
+>>> from pyspark.mllib.classification import LogisticRegressionWithSGD
+>>>
+>>> algo = LogisticRegressionWithSGD()
+>>> model = algo.train(training_data)
+score(model)
+
+>>> score(model)
+0.8528656971770744
+>>>
+>>> spamExample = tf.transform("You have won $1,000,000. Please fly to Nigeria ASAP. This is urgent".split(" "))
+>>> print(model.predict(spamExample))
+0
+>>> hamExample = tf.transform("Spark is really good at big data processing".split(" "))
+>>>
+>>>
+>>> print(model.predict(hamExample))
+0
+>>>
+>>>
+>>> from pyspark.mllib.classification import LogisticRegressionWithLBFGS
+>>>
+>>> algo = LogisticRegressionWithLBFGS()
+>>> model = algo.train(training_data)
+>>> score(model)
+0.8699743370402053
+>>>
+>>>
+>>> from pyspark.mllib.classification import SVMWithSGD
+>>> algo = SVMWithSGD()
+>>> model = algo.train(training_data)
+score(model)
+
+>>> score(model)
+0.864841745081266
+>>>
+>>> from pyspark.mllib.tree import DecisionTree
+>>>
+>>> from pyspark.mllib.tree import GradientBoostedTrees
+>>>
+>>> from  pyspark.mllib.tree import RandomForest
+>>>
+>>> algo = DecisionTree()
+>>> model = algo.trainClassifier(training_data,numClasses=2,categoricalFeaturesInfo={})
+>>> score(model)
+0.8939264328485885
+>>>
+>>> algo = GradientBoostedTrees()
+>>> model = algo.trainClassifier(training_data,categoricalFeaturesInfo={},numIterations=10)
+score(model)
+
+>>> score(model)
+0.8990590248075278
+>>>
+>>> from pyspark.mllib.classification import NaiveBayes
+>>> algo = NaiveBayes()
+>>> model = algo.train(training_data)
+>>> score(model)
+0.9298545765611634
+>>>

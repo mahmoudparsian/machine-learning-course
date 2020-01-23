@@ -1,5 +1,6 @@
 * What is TF-IDF?
-	* term’s frequency (TF) and its inverse document frequency (IDF)
+	* term’s frequency (TF) and its inverse 
+	  document frequency (IDF)
 
 
 TF-IDF  is an information retrieval technique 
