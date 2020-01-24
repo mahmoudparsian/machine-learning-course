@@ -1,7 +1,7 @@
 # K-means in a nutshell
 
 
-<img src="./k-means2.jpg"
+<img src="./../../k-means2.jpg"
      alt="k-means2.jpg"
      style="float: left; margin-right: 10px;" 
 />
