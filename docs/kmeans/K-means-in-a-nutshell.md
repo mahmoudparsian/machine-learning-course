@@ -6,7 +6,7 @@
      style="float: left; margin-right: 10px;" 
 />
 
-#### What is K-means clustering?
+## What is K-means clustering?
 
 ````
   K-means  clustering  is  a  method of  
@@ -18,7 +18,7 @@
   but  not  necessarily  to  global  optimum.
 ````
 
-#### How does K-means work?
+## How does K-means work?
 
 ````
   The K-means algorithm starts by randomly 
@@ -41,7 +41,7 @@
 ````
 
 
-#### K-means Algorithm:
+## K-means Algorithm:
 
 ````
    The most commonly used algorithm is Standard 
@@ -65,7 +65,7 @@
 ````
 
 
-#### K-Means Clustering Algorithm Revised: Detailed
+## K-Means Clustering Algorithm Revised: Detailed
 
 Given k the k-means performs following algorithm the repeatedly:
 

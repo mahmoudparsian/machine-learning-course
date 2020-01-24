@@ -1,13 +1,13 @@
 # K-meas Clustering
 
-#### [K-means in a Nutshell](./K-means-in-a-nutshell.md)
+## [K-means in a Nutshell](./K-means-in-a-nutshell.md)
 
-#### K-means Definition
+## K-means Definition
 
 * [Definition & Math Formula -- wiki](https://en.wikipedia.org/wiki/K-means_clustering)
 
 
-#### Example of Kmeans
+## Example of Kmeans
 
 1. [Example of Kmeans Algorithm:](mapreduce_algorithms_for_big_data_analysis_by_kyuseok_shim_KMEANS.pdf)
 
@@ -35,7 +35,7 @@
 12. [K-Means Clustering in Python -- detailed](https://mubaris.com/posts/kmeans-clustering/)
 
 
-#### K-means Spark
+## K-means Spark
 
 1. [Running KMeans clustering on Spark (CLASS Presentation: GOOD)](https://rsandstroem.github.io/sparkkmeans.html)
 
