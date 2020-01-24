@@ -1,13 +1,13 @@
 
-### [Session 1, January 7, 2020: Introduction to Machine Learning](~/docs/introduction/README.md)
+### [Session 1, January 7, 2020: Introduction to Machine Learning](./../../docs/introduction/README.md)
 
 -----------
 
-### [Session 2, January 9, 2020: Linear Regression](~/docs/linear_regression/README.md)
+### [Session 2, January 9, 2020: Linear Regression](./../../docs/linear_regression/README.md)
 
 ----------
 
-### [Session 3, January 14, 2020: Logistic Regression -- scikit](~/docs/logistic_regression/README.md)
+### [Session 3, January 14, 2020: Logistic Regression -- scikit](./../../docs/logistic_regression/README.md)
 <!--
 spam/nospam: 
 https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f
@@ -17,11 +17,11 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 4, January 16, 2020: Logistic Regression -- Spark ML](~/docs/logistic_regression/README.md)
+### [Session 4, January 16, 2020: Logistic Regression -- Spark ML](./../../docs/logistic_regression/README.md)
 
 -----------
 
-### [Session 5, January 21, 2020: TF-IDF -- Spark ML](~/docs/TF-IDF/README.md)
+### [Session 5, January 21, 2020: TF-IDF -- Spark ML](./../../docs/TF-IDF/README.md)
 * Students Project Presentation (LDA)
 
 -----------
@@ -30,7 +30,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 7, January 28, 2020: K-means](~/docs/kmeans/README.md)
+### [Session 7, January 28, 2020: K-means](./../../docs/kmeans/README.md)
 
 
 --------
