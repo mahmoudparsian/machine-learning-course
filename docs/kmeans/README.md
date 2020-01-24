@@ -60,6 +60,25 @@
 ````
 
 
+#### K-Means Clustering Algorithm Revised: Detailed
+
+Given k the k-means performs following algorithm the repeatedly:
+
+````
+Step-1: Partition objects into k nonempty subsets
+
+Step-2: Compute the centroids of the clusters in 
+        the current partition (the centroid is the 
+        center, i.e., mean point, of the cluster)
+
+Step-3: Assign each object to the cluster with the 
+        nearest centroid
+
+Step-4: Stop when no more new assignments. 
+        Otherwise go back to Step 2
+
+````
+
 #### K-means Definition
 
 * [Definition & Math Formula -- wiki](https://en.wikipedia.org/wiki/K-means_clustering)
