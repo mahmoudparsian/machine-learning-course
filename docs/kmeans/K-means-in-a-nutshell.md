@@ -8,15 +8,22 @@
 
 ## What is K-means clustering?
 
-````
-  K-means  clustering  is  a  method of  
-  vector quantization,  originally from 
-  signal processing, that is popular for 
-  cluster analysis in data mining
+* K-means is a clustering algorithm.
+  
+* K-means clustering (MacQueen, 1967) is  
+  a method commonly used to automatically 
+  partition a data set into K (K > 1) groups. 
+  
+* It is unsupervised learning algorithm.
+  
+* K-means  clustering  is  a  method 
+  of  vector quantization,  originally 
+  from signal processing, that is popular 
+  for cluster analysis in data mining
 
-  The algorithm always converges (by-definition) 
+* The algorithm always converges (by-definition) 
   but  not  necessarily  to  global  optimum.
-````
+
 
 ## How does K-means work?
 

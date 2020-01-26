@@ -48,13 +48,13 @@ Unless otherwise announced, all submission
 deadlines are at 11:59pm PST on the assigned due date.
 
 
-| Date                  | Deliverable            |
-|-----------------------|------------------------|
-| January 16, 2020      | Project proposals due  |
-| January 21, 2020      | Project review meeting |
-| TBDL                  | Draft paper due        | 
-| TBDL                  | Project presentations  |
-| TBDL                  | Final deliverables due |
+| Date                  | Deliverable                      |
+|-----------------------|----------------------------------|
+| January 23, 2020      | Project proposals presentations  |
+| January 28, 2020      | Project proposals  due           |
+| TBDL                  | Draft paper due                  | 
+| TBDL                  | Project presentations            |
+| TBDL                  | Final deliverables due           |
 
 
 # Deliverables
@@ -76,8 +76,8 @@ all of your team members are present at the meeting.
 
 ## Project Presentation
 
-Each group will explain their project in a 10–15 
-minute presentation to the class. Presentations 
+Each group will explain their project in a 20 
+minutes presentation to the class. Presentations 
 should clearly convey the project ideas, methods, 
 and results, including the question(s) being addressed, 
 the motivation of the analyses being employed, and 

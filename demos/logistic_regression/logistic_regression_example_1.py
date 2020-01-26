@@ -29,7 +29,7 @@ developing a classification model in pySpark are as follows:
 # Initializing a Spark session
 from pyspark.sql import SparkSession
 spark = SparkSession.builder\
-                    .appName("diabeties")\
+                    .appName("spam-no-spam")\
                     .config("spark.some.config.option","some-value")
                     .getOrCreate()
 
@@ -50,11 +50,11 @@ spam_words = spam.map(lambda email: email.split())
 ham_words = ham.map(lambda email: email.split())
 
 #-----------------------------
-# 4) convert: Then, we’re hashing each message into 1,000 word buckets. 
+# 4) convert: Then, we’re hashing each message into 256 word buckets. 
 #  As you can see, each message is turned into a sparse vector holding 
 # bucket numbers and occurrences.
 from pyspark.mllib.feature import HashingTF
-tf = HashingTF(numFeatures = 1000)
+tf = HashingTF(numFeatures = 256)
 spam_features = tf.transform(spam_words)
 ham_features = tf.transform(ham_words)
 
