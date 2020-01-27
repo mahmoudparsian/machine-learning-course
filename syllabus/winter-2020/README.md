@@ -62,7 +62,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 -------
 
-### Handling Non-Numeric Data(./../../docs/handling_non_numeric_data/README.md)
+### [Handling Non-Numeric Data](./../../docs/handling_non_numeric_data/README.md)
 
 ------
 
