@@ -55,46 +55,17 @@ Order of Lecture:
 2. K-Means Clustering with Scikit-Learn: simple example
 https://stackabuse.com/k-means-clustering-with-scikit-learn/
 
+2.2 K-means : [Python solution] + [scikit solution]
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb
+
 2.3  K-Means Clustering in Python with scikit-learn (Good working example (x, y,z))
 https://www.datacamp.com/community/tutorials/k-means-clustering-python
 
-2.5 UCLA kmeans
+2.5 sample programs in PySpark
 
-from pyspark import SparkContext
-
-from pyspark.mllib.clustering import KMeans
-
-from numpy import array
-
-from math import sqrt
-
- 
-
-sc = SparkContext()
-
- 
-
-#4 data points (0.0, 0.0), (1.0, 1.0), (9.0, 8.0) (8.0, 9.0)
-
-data = array([0.0,0.0, 1.0,1.0, 9.0,8.0, 8.0,9.0]).reshape(4,2)
-
- 
-
-#Generate K means
-
-model = KMeans.train(sc.parallelize(data), 2, maxIterations=10, runs=30, initializationMode="random")
-
- 
-
-#Print out the cluster of each data point
-
-print (model.predict(array([0.0, 0.0])))
-
-print (model.predict(array([1.0, 1.0])))
-
-print (model.predict(array([9.0, 8.0])))
-
-print (model.predict(array([8.0, 0.0])))
+kmeans_example_spark_01.py
+kmeans_example_spark_02.py
 
 
 3. A demo of K-Means clustering on the handwritten digits data
@@ -564,22 +535,4 @@ cluster = model.transform(transformed)
 |[5.1,3.8,1.5,0.3]|[5.1,3.8,1.5,0.3]|      1|
 +-----------------+-----------------+-------+
 only showing top 20 rows
-
-=================================
-
-The Data Mining Blog: FREQUENT PATTERN MINING
-
-1. Good Example: introduction-frequent-pattern-mining
-   http://data-mining.philippe-fournier-viger.com/introduction-frequent-pattern-mining/
-   
-2. Frequent Pattern Mining and the Apriori Algorithm: A Concise Technical Overview
-https://www.kdnuggets.com/2016/10/association-rule-learning-concise-technical-overview.html
-
-Video example: some items are wrong: (count of b's)
-
-Spark:
-
-Frequent Pattern Mining
-https://spark.apache.org/docs/2.4.4/ml-frequent-pattern-mining.html#frequent-pattern-mining
-examples/src/main/python/ml/fpgrowth_example.py
 
