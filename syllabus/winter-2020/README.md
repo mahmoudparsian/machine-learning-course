@@ -32,62 +32,38 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 ### [Session 7, January 28, 2020: K-means](./../../docs/kmeans/README.md)
 
+* K-means scikit-learn
+* K-means Spark-ML
+
 
 --------
 
-### Session 8, PCA
+### Session 8, Naive Bayes
 
 --------
 
-### Session 9, LDA
+### Session 9, PCA
+
+--------
+
+### Session 10, LDA
 
 -------
 
-### Session 10: SVM
+### Session 11: SVM
 
 -------
 
-### Session 11: Frequent Pattern Mining
+### Session 12: Frequent Pattern Mining
+
+------
+
+### Project Presentations
 
 -------
 
-### Handling Non-Numeric Data:
+### Handling Non-Numeric Data(./../../docs/handling_non_numeric_data/README.md)
 
-* [Handling Categorical Data in Python](ttps://www.datacamp.com/community/tutorials/categorical-data)
+------
 
-* [Handling Non-Numeric Data (16 minutes video)](https://www.youtube.com/watch?v=8p6XaQSIFpY&feature=youtu.be)
-
-
-### Underfitting and Overfitting
-
-* A model that generalizes well is a model 
-  that is neither underfit nor overfit.
-
-* Underfitting
-
-````
-    Underfitting occurs when a model can’t 
-    accurately capture the dependencies among 
-    data, usually as a consequence of its own 
-    simplicity. It often yields a low 𝑅² with 
-    known data and bad generalization capabilities 
-    when applied with new data.
-````
-
-* Overfitting
-
-````
-    Overfitting  happens  when a  model learns  
-    both dependencies  among  data  and random 
-    fluctuations. In other words, a model learns 
-    the existing data too well. Complex models, 
-    which have many features or terms, are often 
-    prone to overfitting.    When applied to known 
-    data, such models usually yield high 𝑅². However, 
-    they  often  don’t  generalize  well  and  have 
-    significantly lower 𝑅² when used with new data.
-````
-
-* [What Are Overfitting and Underfitting in Machine Learning?](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
-
-* [Overfitting and Underfitting in Machine Learning - video 17 minutes](https://www.youtube.com/watch?v=j9_yzC-x-js)
+### [Underfitting and Overfitting](./../../docs/underfitting_overfitting/README.md)
