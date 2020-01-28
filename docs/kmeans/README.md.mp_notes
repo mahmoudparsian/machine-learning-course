@@ -1,0 +1,41 @@
+K-means Order of Lecture:
+
+1. MP Notes on Github
+
+2. K-Means Clustering with Scikit-Learn: simple example
+https://stackabuse.com/k-means-clustering-with-scikit-learn/
+
+2.2 K-means : [Python solution] + [scikit solution]
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb
+
+2.3  K-Means Clustering in Python with scikit-learn (Good working example (x, y,z))
+https://www.datacamp.com/community/tutorials/k-means-clustering-python
+
+2.5 sample programs in PySpark
+
+kmeans_example_spark_01.py
+kmeans_example_spark_02.py
+
+
+3. A demo of K-Means clustering on the handwritten digits data
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html
+
+4. Spark
+/Users/mparsian/spark-2.4.4/examples/src/main/python/ml/kmeans_example.py
+
+4. PySpark MLlib Tutorial : k-means
+https://www.edureka.co/blog/pyspark-mllib-tutorial/ (GOOD ECAMPLE)
+
+-----
+<!-- Great ML Pointer -->
+https://runawayhorse001.github.io/LearningApacheSpark/clustering.html
+https://runawayhorse001.github.io/LearningApacheSpark/clustering.html 
+
+Kmeans and its evaluation:
+http://vargas-solar.com/big-data-analytics/hands-on/k-means-with-spark-hadoop/
+
+
+12.1. K-Means Model
+https://runawayhorse001.github.io/LearningApacheSpark/clustering.html
+
