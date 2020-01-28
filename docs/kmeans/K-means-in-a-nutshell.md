@@ -14,6 +14,8 @@
 
 ## What is K-means clustering?
 
+* The term **K-means** was first used by James MacQueen in 1967
+
 * K-means is a clustering algorithm.
   
 * K-means clustering (MacQueen, 1967) is  

@@ -11,28 +11,32 @@
 
 1. [Example of Kmeans Algorithm:](mapreduce_algorithms_for_big_data_analysis_by_kyuseok_shim_KMEANS.pdf)
 
-2. [K-means video: 9 minutes](https://www.youtube.com/watch?v=4b5d3muPQmA)
+2. [K-means Clustering - video 50 minutes](https://www.youtube.com/watch?v=Xvwt7y2jf5E)
 
-3. [K-Means Clustering with Scikit-Learn by Example](https://stackabuse.com/k-means-clustering-with-scikit-learn/)
+3. [K-means video: 9 minutes](https://www.youtube.com/watch?v=4b5d3muPQmA)
 
-4. [Introduction with image: Clustering using K-means algorithm](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)
+4. [Clustering, K-means Algorithm by Andrew Ng - video 12 minutes](https://www.youtube.com/watch?v=hDmNF9JG3lo)
 
-5. [K-means Clustering Algorithm: Explained](http://dni-institute.in/blogs/k-means-clustering-algorithm-explained/)
+5. [K-Means Clustering with Scikit-Learn by Example](https://stackabuse.com/k-means-clustering-with-scikit-learn/)
 
-6. [K-means: Step-By-Step Example](http://mnemstudio.org/clustering-k-means-example-1.htm)
+6. [Introduction with image: Clustering using K-means algorithm](https://towardsdatascience.com/clustering-using-k-means-algorithm-81da00f156f6)
 
-7. [Numerical Example of Kmeans clustering](https://people.revoledu.com/kardi/tutorial/kMean/NumericalExample.htm)
+7. [K-means Clustering Algorithm: Explained](http://dni-institute.in/blogs/k-means-clustering-algorithm-explained/)
 
-8. [Numerical Example of Kmeans clustering](https://www.saedsayad.com/clustering_kmeans.htm)
+8. [K-means: Step-By-Step Example](http://mnemstudio.org/clustering-k-means-example-1.htm)
 
-9. [Step by Step KMeans Explained in Detail](https://www.kaggle.com/shrutimechlearn/step-by-step-kmeans-explained-in-detail)
+9. [Numerical Example of Kmeans clustering](https://people.revoledu.com/kardi/tutorial/kMean/NumericalExample.htm)
 
-10. [Demonstration of k-means assumptions](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_assumptions.html#sphx-glr-auto-examples-cluster-plot-kmeans-assumptions-py)
+10. [Numerical Example of Kmeans clustering](https://www.saedsayad.com/clustering_kmeans.htm)
+
+11. [Step by Step KMeans Explained in Detail](https://www.kaggle.com/shrutimechlearn/step-by-step-kmeans-explained-in-detail)
+
+12. [Demonstration of k-means assumptions](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_assumptions.html#sphx-glr-auto-examples-cluster-plot-kmeans-assumptions-py)
 	* plot_kmeans_assumptions.ipynb
 
-11. [K-means Clustering: Iris data](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html#sphx-glr-auto-examples-cluster-plot-cluster-iris-py)
+13. [K-means Clustering: Iris data](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_iris.html#sphx-glr-auto-examples-cluster-plot-cluster-iris-py)
 
-12. [K-Means Clustering in Python -- detailed](https://mubaris.com/posts/kmeans-clustering/)
+14. [K-Means Clustering in Python -- detailed](https://mubaris.com/posts/kmeans-clustering/)
 
 
 ## K-means Spark

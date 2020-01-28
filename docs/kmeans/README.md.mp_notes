@@ -5,6 +5,10 @@ K-means Order of Lecture:
 2. K-Means Clustering with Scikit-Learn: simple example
 https://stackabuse.com/k-means-clustering-with-scikit-learn/
 
+2.1 
+K-Means simple example: PyPR is an abbreviation for Python Pattern Recognition
+http://pypr.sourceforge.net/kmeans.html
+
 2.2 K-means : [Python solution] + [scikit solution]
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
 https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb
