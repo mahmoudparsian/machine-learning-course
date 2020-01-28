@@ -1,8 +1,14 @@
 # K-means in a nutshell
 
+<img src="./kmeans0.png"
+     alt="kmeans0.png"
+     style="float: left; margin-right: 10px;" 
+/>
 
-<img src="./k-means2.jpg"
-     alt="k-means2.jpg"
+
+
+<img src="./kmeans_2d.png"
+     alt="kmeans_2d.png"
      style="float: left; margin-right: 10px;" 
 />
 
