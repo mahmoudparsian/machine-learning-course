@@ -60,8 +60,8 @@
 ----------------------------
 
 ## Final Exam: 
-* Final Exam Date: **TBDL March 2020**
-* Final Exam Time: **TBDL March 2020**
+* Date: **Tuesday, March 17, 2020**
+* Time: **5:45-7:45 PM PST**
 
 
 ----------------------------
@@ -119,6 +119,10 @@ The main focus of this class is to cover the following concepts:
 	* FP-Growth
 	* PrefixSpan
 
+* Naive Bayes
+	* scikit-learn
+	* Spark ML
+	
 ---------------------------
 
 ## [Machine Learning Syllabus](./syllabus/winter-2020/)
