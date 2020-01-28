@@ -3,6 +3,9 @@
 * A model that generalizes well is a model 
   that is neither underfit nor overfit.
 
+<img src="./over_and_under_fitting.png" alt="over_and_under_fitting">
+
+
 * Underfitting
 
 ````
