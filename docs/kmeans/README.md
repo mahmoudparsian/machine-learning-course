@@ -6,6 +6,14 @@
 
 * [Definition & Math Formula -- wiki](https://en.wikipedia.org/wiki/K-means_clustering)
 
+## Clustering and K-means by Andrew Ng (Stanford University)
+
+1. [Clustering, Unsupervised Learning, by Andrew Ng -- video: 3 minutes](https://www.youtube.com/watch?v=Ev8YbxPu_bQ)
+
+2. [Clustering, K-means Algorithm by Andrew Ng -- video 12 minutes](https://www.youtube.com/watch?v=hDmNF9JG3lo)
+
+3. [Clustering, Optimization Objective, by Andrew Ng -- video: 7 minutes](https://www.youtube.com/watch?v=LvgcfMOyREE&t=5s)
+
 
 ## Example of Kmeans
 
