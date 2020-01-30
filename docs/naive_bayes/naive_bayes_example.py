@@ -21,17 +21,17 @@ data = spark.read.format("libsvm").load(data_path)
 
 # Split the data into train and test
 splits = data.randomSplit([0.6, 0.4], 1234)
-train = splits[0]
-test = splits[1]
+training_data = splits[0]
+test_data = splits[1]
 
 # create the trainer and set its parameters
 nb = NaiveBayes(smoothing=1.0, modelType="multinomial")
 
 # train the model
-model = nb.fit(train)
+model = nb.fit(training_data)
 
 # select example rows to display.
-predictions = model.transform(test)
+predictions = model.transform(test_data)
 predictions.show()
 
 # compute accuracy on the test set

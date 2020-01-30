@@ -35,26 +35,40 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 * K-means scikit-learn
 * K-means Spark-ML
 
+-------
+
+### [Session 8, January 30, 2020: K-means](./../../docs/kmeans/README.md)
+
+* K-means scikit-learn
+* K-means Spark-ML
 
 --------
 
-### Session 8, Naive Bayes
+### [Session 9, February 4, 2020: Naive Bayes](./../../docs/naive_bayes/README.md)
+* K-means scikit-learn
+* K-means Spark-ML
 
 --------
 
-### Session 9, PCA
+### [Session 10, February 6, 2020: Naive Bayes](./../../docs/naive_bayes/README.md)
+* K-means scikit-learn
+* K-means Spark-ML
 
 --------
 
-### Session 10, LDA
+### [Session 11, February 11, 2020: LDA](./../../docs/LDA/README.md)
+
+--------
+
+### Session 12, PCA
 
 -------
 
-### Session 11: SVM
+### Session 13: SVM
 
 -------
 
-### Session 12: Frequent Pattern Mining
+### Session 14: Frequent Pattern Mining
 
 ------
 
