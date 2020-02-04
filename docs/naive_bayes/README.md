@@ -36,6 +36,13 @@
 
 ------
 
+<img src="./naive_bayes_02.png"
+     alt="naive_bayes_02.png"
+     style="float: left; margin-right: 10px;"
+/>
+
+------
+
 <img src="./bayes_derivation.jpg"
      alt="bayes_derivation.jpg"
      style="float: left; margin-right: 10px;"
