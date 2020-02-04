@@ -30,6 +30,13 @@
 
 ------
 
+<img src="./bayes_derivation.jpg"
+     alt="bayes_derivation.jpg"
+     style="float: left; margin-right: 10px;"
+/>
+
+------
+
 ## Conditional Probability: foundation for Naive Bayes
 
 1. [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
