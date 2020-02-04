@@ -71,20 +71,22 @@
 
 2. [Naive Bayes Classifier 37 (pages)](https://www.slideshare.net/EdurekaIN/naive-bayes-classifier-in-python-naive-bayes-algorithm-machine-learning-algorithm-edureka?qid=d457ea5b-9654-4212-819e-f4e1096407eb&v=&b=&from_search=2)
 
-3. [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+3. [Naïve Bayes and Logistic Regression, by Tom M. Mitchell](http://www.cs.cmu.edu/~awm/15781/slides/NBayes-9-27-05.pdf)
+
+4. [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
 <!-- GOOD -- MP : make it lecture notes -->
 
-4. [Naive Bayes Classifiers (Golf Example)](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+5. [Naive Bayes Classifiers (Golf Example)](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
 
-5. [Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+6. [Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
-6. [Naive Bayes Tutorial for Machine Learning](https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/)
+7. [Naive Bayes Tutorial for Machine Learning](https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/)
 
-7. [Naive Bayes Classifier Explained Step by Step](https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/)
+8. [Naive Bayes Classifier Explained Step by Step](https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/)
 
-8. [How Naive Bayes Algorithm Works? (with example and full code)](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
+9. [How Naive Bayes Algorithm Works? (with example and full code)](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
 
-9. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
+10. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
 
 ------
 
