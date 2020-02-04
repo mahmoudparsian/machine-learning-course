@@ -20,6 +20,12 @@
     the condition B", i.e. the probability of some 
     event A under the assumption that the event B 
     took place. 
+    
+    Conditional probability answers the question:
+    
+           how does the probability 
+           of an event change if we 
+           have extra information
 
 ------
 
@@ -61,22 +67,24 @@
 
 ## Naive Bayes -- Introduction
 
-1. [Naive Bayes slide 37 (pages)](http://web.iitd.ac.in/~bspanda/BY.pdf)
+1. [Introduction to Naive Bayes -- slide 37 (pages)](http://web.iitd.ac.in/~bspanda/BY.pdf)
 
-2. [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+2. [Naive Bayes Classifier 37 (pages)](https://www.slideshare.net/EdurekaIN/naive-bayes-classifier-in-python-naive-bayes-algorithm-machine-learning-algorithm-edureka?qid=d457ea5b-9654-4212-819e-f4e1096407eb&v=&b=&from_search=2)
+
+3. [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
 <!-- GOOD -- MP : make it lecture notes -->
 
-3. [Naive Bayes Classifiers (Golf Example)](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+4. [Naive Bayes Classifiers (Golf Example)](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
 
-4. [Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+5. [Naive Bayes Classifier From Scratch in Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
-5. [Naive Bayes Tutorial for Machine Learning](https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/)
+6. [Naive Bayes Tutorial for Machine Learning](https://machinelearningmastery.com/naive-bayes-tutorial-for-machine-learning/)
 
-6. [Naive Bayes Classifier Explained Step by Step](https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/)
+7. [Naive Bayes Classifier Explained Step by Step](https://www.globalsoftwaresupport.com/naive-bayes-classifier-explained-step-step/)
 
-7. [How Naive Bayes Algorithm Works? (with example and full code)](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
+8. [How Naive Bayes Algorithm Works? (with example and full code)](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
 
-8. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
+9. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
 
 ------
 
