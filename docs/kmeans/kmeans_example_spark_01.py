@@ -6,19 +6,27 @@ from pyspark.mllib.clustering import KMeans
 from numpy import array
 from math import sqrt
 
+# create a SparkSession object
 spark = SparkSession\
    .builder\
    .appName("KMeansExample")\
    .getOrCreate() 
 
+# Create a SparkContext object
 sc = spark.sparkContext
 
 # 4 data points (0.0, 0.0), (1.0, 1.0), (9.0, 8.0) (8.0, 9.0)
 data = array([0.0,0.0, 1.0,1.0, 9.0,8.0, 8.0,9.0]).reshape(4,2)
+print("data=", data)
 
 #Generate K means
-model = KMeans.train(sc.parallelize(data), 2, maxIterations=10, runs=30, initializationMode="random")
+rdd = sc.parallelize(data)
+print("rdd.collect()=", rdd.collect())
 
+# build a K-means model
+K = 2
+model = KMeans.train(rdd, K, maxIterations=10,  initializationMode="random")
+print("model=", model)
 
 #Print out the cluster of each data point
 print (model.predict(array([0.0, 0.0])))

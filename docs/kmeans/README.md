@@ -1,4 +1,4 @@
-# K-meas Clustering
+# K-means Clustering
 
 ## [K-means in a Nutshell](./K-means-in-a-nutshell.md)
 
@@ -47,13 +47,13 @@
 14. [K-Means Clustering in Python -- detailed](https://mubaris.com/posts/kmeans-clustering/)
 
 
-## K-means Spark
+## K-means Spark & PySpark
 
 1. [Running KMeans clustering on Spark (CLASS Presentation: GOOD)](https://rsandstroem.github.io/sparkkmeans.html)
 
 2. [UCLA Tutorial, K-means Clustering: GOOD WORKING EXAMPLE](http://web.cs.ucla.edu/~zhoudiyu/tutorial/)
 
-3. [Clustering K-means](https://runawayhorse001.github.io/LearningApacheSpark/clustering.html)
+3. [Clustering K-means -- Good Example](https://runawayhorse001.github.io/LearningApacheSpark/clustering.html)
 
 4. [In Depth: k-means Clustering: excerpt from the Python Data Science Handbook - docs](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 
