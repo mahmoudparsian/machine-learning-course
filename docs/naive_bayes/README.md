@@ -56,7 +56,8 @@
 
 1. [Naive Bayes slide 37 (pages)](http://web.iitd.ac.in/~bspanda/BY.pdf)
 
-2. [Naive Bayes Classification using Scikit-learn -- GOOD -- MP : make it lecture notes](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+2. [Naive Bayes Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+<!-- GOOD -- MP : make it lecture notes -->
 
 3. [Naive Bayes Classifiers (Golf Example)](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
 
