@@ -18,11 +18,18 @@ print('data_path=', data_path)
 #
 # Load training data
 data = spark.read.format("libsvm").load(data_path)
+data.show(10, truncate=False)
+data.printSchema()
+
 
 # Split the data into train and test
 splits = data.randomSplit([0.6, 0.4], 1234)
+#
 training_data = splits[0]
+print('training_data.count()=', training_data.count())
+#
 test_data = splits[1]
+print('test_data.count()=', test_data.count())
 
 # create the trainer and set its parameters
 nb = NaiveBayes(smoothing=1.0, modelType="multinomial")
@@ -32,7 +39,7 @@ model = nb.fit(training_data)
 
 # select example rows to display.
 predictions = model.transform(test_data)
-predictions.show()
+predictions.show(truncate=False)
 
 # compute accuracy on the test set
 evaluator = MulticlassClassificationEvaluator(\

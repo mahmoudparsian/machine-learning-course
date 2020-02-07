@@ -75,6 +75,8 @@
 
 5. [Introduction to Naive Bayes Theorem, ML Classification: 10 minutes](https://www.youtube.com/watch?v=sjUDlJfdnKM)
 
+6. [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
+
 ------
 
 ## Naive Bayes -- Introduction
@@ -111,7 +113,6 @@
 
 2. [How to Develop a Naive Bayes Classifier from Scratch in Python: by Jason Brownlee](https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/)
 
-
 <!-- https://www.kaggle.com/janiobachmann/bank-marketing-dataset#bank.csv bank.csv -->
 
 ------
@@ -123,7 +124,18 @@
 2. [Naive Bayes Classifier - ML Pipelines](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3783546674231736/4413065072037724/latest.html)
 
 3. [How to implement Naive Bayes with Spark MLlib](https://hub.packtpub.com/machine-learning-algorithms-naive-bayes-with-spark-mllib/)
+<!--
+Multi-Class Text Classification with PySpark
+https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/SF_Crime_Text_Classification_PySpark.ipynb
 
-4. [Multi-Class Text Classification with PySpark](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
+Data: San Francisco Crime Classification
+https://www.kaggle.com/c/sf-crime/data
+-->
 
+4. Multi-Class Text Classification with PySpark
+	* [Multi-Class Text Classification with PySpark -- blog](https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35)
+	* [PySpark solutions: Logistic Regression, Naive Bayes](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/SF_Crime_Text_Classification_PySpark.ipynb)
+	* [San Francisco Crime Classification Data download](https://www.kaggle.com/c/sf-crime/data)
+	
 5. [Pyspark – Classification with Naive Bayes](https://praveenbezawada.com/2018/04/28/pyspark-classification-with-naive-bayes/)
