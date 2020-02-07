@@ -18,7 +18,7 @@ print('data_path=', data_path)
 #
 # Load training data
 data = spark.read.format("libsvm").load(data_path)
-data.show(10, truncate=False)
+data.show(3, truncate=False)
 data.printSchema()
 
 
@@ -39,7 +39,7 @@ model = nb.fit(training_data)
 
 # select example rows to display.
 predictions = model.transform(test_data)
-predictions.show(truncate=False)
+predictions.show(5, truncate=False)
 
 # compute accuracy on the test set
 evaluator = MulticlassClassificationEvaluator(\

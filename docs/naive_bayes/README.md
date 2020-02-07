@@ -75,7 +75,7 @@
 
 5. [Introduction to Naive Bayes Theorem, ML Classification: 10 minutes](https://www.youtube.com/watch?v=sjUDlJfdnKM)
 
-6. [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
+6. [Naive Bayes classifier: A friendly approach: 20 minutes](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
 
 ------
 
