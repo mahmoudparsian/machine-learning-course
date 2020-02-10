@@ -105,6 +105,7 @@
 
 11. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
 
+<!-- work on this: https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf -->
 ------
 
 ## Naive Bayes Deep Understandings

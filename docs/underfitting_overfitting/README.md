@@ -5,6 +5,21 @@
 
 <img src="./over_and_under_fitting.png" alt="over_and_under_fitting">
 
+* Generalization and overfitting
+
+```
+	• Generalization: A classifier or a regression 
+	  algorithm learns to correctly predict output 
+	  from given inputs not only in previously seen 
+	  samples but also in previously unseen samples.
+
+	• Overfitting: A classifier or a regression 
+	  algorithm learns to correctly predict output 
+	  from given inputs in previously seen samples 
+	  but fails to do so in previously unseen samples.
+
+	• Overfitting => Poor generalization.
+````
 
 * Underfitting
 
