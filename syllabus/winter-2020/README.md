@@ -56,19 +56,23 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 11, February 11, 2020: LDA](./../../docs/LDA/README.md)
+### [Session 11, February 11, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
+
+-----
+
+### [Session 12, February 13, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
 --------
 
-### Session 12, PCA
+### Session 13, LDA
+
+-----
+
+### Session 14, PCA
 
 -------
 
-### Session 13: SVM
-
--------
-
-### Session 14: Frequent Pattern Mining
+### Session 15: Frequent Pattern Mining
 
 ------
 

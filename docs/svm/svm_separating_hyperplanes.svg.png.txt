@@ -1,0 +1,1 @@
+H1 does not separate the classes. H2 does, but only with a small margin. H3 separates them with the maximal margin.
