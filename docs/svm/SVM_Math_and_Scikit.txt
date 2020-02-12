@@ -1,0 +1,2 @@
+Support Vector Machine Python Example
+https://towardsdatascience.com/support-vector-machine-python-example-d67d9b63f1c8

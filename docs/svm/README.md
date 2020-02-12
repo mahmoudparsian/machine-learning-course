@@ -1,5 +1,14 @@
 # SVM -- Support Vector Machine
 
+------
+
+<img src="./svm_00.jpeg"
+     alt="svm_00.jpeg"
+     style="float: left; margin-right: 10px;"
+/>
+
+-------
+
 ### Introduced in 1992
 * Support Vector Machine (SVM) was first 
   heard in 1992, introduced by Boser, Guyon, 
@@ -68,12 +77,17 @@ of the decision boundary in the feature space.
 -----
 
 ## Videos:
+0. [Support Vector Machine (SVM) Tutorial Learning SVMs from examples](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
-1. [Support Vector Machines, Clearly Explained, video: 20 minutes](https://www.youtube.com/watch?v=efR1C6CvhmE)
+1. [class -- Support Vector Machines (SVMs): A friendly introduction -- 30 mins](https://www.youtube.com/watch?v=Lpr__X8zuE8)
 
-2. [How Support Vector Machine Works, video: 26 minutes](https://www.youtube.com/watch?v=TtKF996oEl8)
+2. [class -- Support Vector Machines: A Visual Explanation with Sample Python Code -- 22 mins](https://www.youtube.com/watch?v=N1vOgolbjSc)
 
-3. [Lecture 68 — Support Vector Machines Mathematical Formulation | Stanford: 12 minutes](https://www.youtube.com/watch?v=ax8LxRZCORU)
+3. [Support Vector Machines, Clearly Explained, video: 20 minutes](https://www.youtube.com/watch?v=efR1C6CvhmE)
+
+4. [How Support Vector Machine Works, video: 26 minutes](https://www.youtube.com/watch?v=TtKF996oEl8)
+
+5. [Lecture 68 — Support Vector Machines Mathematical Formulation | Stanford: 12 minutes](https://www.youtube.com/watch?v=ax8LxRZCORU)
 
 -----
 
@@ -108,6 +122,20 @@ https://towardsdatascience.com/svm-feature-selection-and-kernels-840781cc1a6c
 ------
 
 ## SVM Scikit
+
+<!--
+Feb. 13: DEMO Iris data set
+Support Vector Machines Tutorial – Learn to implement SVM in Python
+https://data-flair.training/blogs/svm-support-vector-machine-tutorial/
+
+Example of a Kernel: GOOD
+https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
+
+Different kernels example:
+Implementing SVM and Kernel SVM with Python's Scikit-Learn
+https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
+
+-->
 
 1. SVM using Scikit-Learn in Python (DEMO)
 	* [SVM using Scikit-Learn in Python - BLOG](https://www.learnopencv.com/support-vector-machines-svm/)
