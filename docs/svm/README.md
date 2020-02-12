@@ -9,6 +9,13 @@
 
 -------
 
+<img src="./svm_01.png"
+     alt="svm_01.png"
+     style="float: left; margin-right: 10px;"
+/>
+
+-------
+
 ### Introduced in 1992
 * Support Vector Machine (SVM) was first 
   heard in 1992, introduced by Boser, Guyon, 
