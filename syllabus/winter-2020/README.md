@@ -58,7 +58,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 ### [Session 11, February 11, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
------
+--------
 
 ### [Session 12, February 13, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
