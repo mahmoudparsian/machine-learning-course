@@ -155,17 +155,18 @@ from the instructor prior to the final paper deadline.
 	* Was any innovation attempted?
 	* What models did you try?
 	* How did you improve the model?
-* Data and Experiments:	10%	
+* Data and Experiments:	15%	
 	* What data did you use? 
 	* Are your experimental methods reliable? 
 	* What preprocessing was done the data?
 	* Did you drop any columns? why?
 	* Did you add any derived columns? why?
-	* Data cleaning and normalization?
-* Evaluation and Results:	25%	
+	* Data cleaning and normalization? how?
+* Evaluation and Results:	20%	
 	* Did you properly evaluate your experiments/models? 
 	* Did you test for statistical significance? 
 	* Do your conclusions match your results?
+	* Can your solution be used in real-life?
 * Writing Quality:	15%	
 	* Clarity of writing (5%) 
 	* Organization (5%) 
