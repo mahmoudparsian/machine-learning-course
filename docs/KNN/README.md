@@ -2,11 +2,14 @@
 
 * The k-nearest neighbors (KNN) algorithm is a simple, 
   supervised machine learning algorithm that can be used 
-  to solve both classification and regression problems. 
+  to solve both 
+	* classification problems, and 
+	* regression problems. 
   
-* KNN algorithm is easy to implement and understand, but 
-  has a major drawback of becoming significantly slows as 
-  the size of that data in use grows.
+* KNN algorithm is easy to implement and understand, 
+
+* KNN has a major drawback of becoming significantly slows 
+  as the size of that data in use grows.
 
 * In pattern recognition, the k-nearest neighbors algorithm 
   (k-NN) is a non-parametric method used for classification 
