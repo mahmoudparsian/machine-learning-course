@@ -64,8 +64,6 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-
-<<<<<<< HEAD
 ### Session 13, February 18, 2020: No class, sick
 
 --------
@@ -103,33 +101,6 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 -----
 
 ### Session 20, March 12, 2020: ML Review, Summary
-=======
-### Session 13, February 18, 2020: No class, with flu, sick
-
---------
-
-### Session 14, February 20, 2020: No class, with flu, sick
-
---------
-
-### Session 15, February 15, 2020: KNN Classification
-
---------
-
-### Session 16, February 20, 2020: LDA
-
------
-
-### Session 17, PCA
-
--------
-
-### Session 18: Frequent Pattern Mining
-
-------
-
-### Project Presentations
->>>>>>> 9a26b23560b26b2dba610efb446498ce1dc0ac6c
 
 -------
 
