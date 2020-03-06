@@ -52,9 +52,9 @@ deadlines are at 11:59pm PST on the assigned due date.
 |-----------------------|----------------------------------|
 | January 23, 2020      | Project proposals presentations  |
 | January 28, 2020      | Project proposals  due           |
-| TBDL                  | Draft paper due                  | 
-| TBDL                  | Project presentations            |
-| TBDL                  | Final deliverables due           |
+| Skipped, TBDL         | Draft paper due                  | 
+| In progress           | Project presentations            |
+| March 12, 2020        | Final deliverables due           |
 
 
 # Deliverables
