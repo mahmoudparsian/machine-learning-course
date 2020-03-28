@@ -1,4 +1,4 @@
-## Winter 2020
+## Spring 2020
 
 ---------------
 
@@ -28,14 +28,14 @@
 * Graduate School, Leavey School of Business
 * Department of Information Systems & Analytics
 * Class meeting dates: 
-	* Start: January 6, 2020
-	* End: March 19, 2020
+	* Start: March 30, 2020
+	* End: June 11, 2020
 * Class hours:  
-	* Tuesday 5:45 PM - 7:20 PM
-	* Thursday 5:45 PM 7:20 PM
+	* Monday 7:35 PM - 9:10 PM, PST
+	* Wednesday 7:35 PM - 9:10 PM, PST
 * Instructor: [Mahmoud Parsian](https://www.scu.edu/business/isa/faculty/parsian/)
-* Class room: Lucas Hall 206 
-* Office: 216AA, 2nd Floor, Lucas Hall
+* Class room: online
+* Office: 216AA, 2nd Floor, Lucas Hall ([not used now due to covid-19](https://www.cdc.gov/coronavirus/2019-nCoV/index.html))
 * Office Hours: by appointment
 
 ## Required Books
@@ -59,10 +59,15 @@
 
 ----------------------------
 
-## Final Exam: 
-* Date: **Tuesday, March 17, 2020**
-* Time: **5:45-7:45 PM PST**
+## Midterm Exam: 
+* Date: TBDL
+* Time: 7:35 PM - 9:10 PM, PST
 
+----------------------------
+
+## Final Exam: 
+* Date: TBDL
+* Time: 7:35 PM - 9:10 PM, PST
 
 ----------------------------
 
@@ -122,10 +127,18 @@ The main focus of this class is to cover the following concepts:
 * Naive Bayes
 	* scikit-learn
 	* Spark ML
+
+* Decision Trees
+	* scikit-learn
+	* Spark ML
+
+* K-nearest neighbors algorithm (KNN)
+	* scikit-learn		
 	
 ---------------------------
 
-## [Machine Learning Syllabus](./syllabus/winter-2020/)
+## [Machine Learning Syllabus](./syllabus/spring-2020/)
+
 ---------------------------
 
 ## [Machine Learning Project](./project/README.md)
