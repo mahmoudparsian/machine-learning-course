@@ -74,24 +74,23 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### Session 15, May 18, 2020: PCA
+### Session 15, May 18, 2020: Decision Trees
 
 -------
 
-### Session 16, May 20, 2020: 
+### Session 16, May 20, 2020: LDA
 
 -------
 
-### Session 17, May 25, 2020: 
+### Session 17, May 25, 2020: PCA
 
 -------
 
-### Session 18, May 27, 2020: 
+### Session 18, May 27, 2020: TBDL
 
 --------
 
-### Session 19, June 1, 2020: 
-
+### Session 19, June 1, 2020: TBDL
 -----
 
 ### Session 20, June 3, 2020: ML Review, Summary

@@ -16,12 +16,17 @@
 
 7. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 
+## 2. Python Tutorials (required for using SciKit and Spark ML)
 
-## 2. Supervised and Unsupervised Learning In Machine Learning
+1. [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+
+2. [Core Tools (Python language essentials) by Kyle Bradbury and Leslie Collins]()./../../docs/introduction/python_for_data_science_tutorial.pdf)
+
+## 3. Supervised and Unsupervised Learning In Machine Learning
 
 1. [Supervised and Unsupervised Learning In Machine Learning  -- video 10 minutes](https://www.youtube.com/watch?v=kE5QZ8G_78c)
 
-## 3. SciKit ML -- Machine Learning in Python
+## 4. SciKit ML -- Machine Learning in Python
 
 1. [SciKit ML](https://scikit-learn.org/stable/)
 
@@ -33,7 +38,7 @@
 
 5. [Scikit-Learn Tutorial | Machine Learning With Scikit-Learn -- video 44 minutes](https://www.youtube.com/watch?v=0Lt9w-BxKFQ)
 
-## 4. Apache Spark ML
+## 5. Apache Spark ML
 
 1. [Apache Spark Machine Learning Tutorial](https://mapr.com/blog/apache-spark-machine-learning-tutorial/)
 
