@@ -4,17 +4,19 @@
 
 1. [Introduction to Machine Learning](./intro_to_ML.pdf)
 
-2. [Introduction to Machine Learning -- blog](./intro_to_Machine_Learning_by_Anmol_Behl.pdf)
+2. [What is machine learning?](./lecture01_what_is_machine_learning.pdf)
 
-3. [Introduction to Machine Learning for beginners](./introduction-to-machine-learning-for-beginners.pdf)
+3. [Introduction to Machine Learning -- blog](./intro_to_Machine_Learning_by_Anmol_Behl.pdf)
 
-4. [Machine Learning 101 - AWS Machine Learning Web Day](https://www.slideshare.net/AWSAktuell/machine-learning-101-aws-machine-learning-web-day)
+4. [Introduction to Machine Learning for beginners](./introduction-to-machine-learning-for-beginners.pdf)
 
-5. [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
+5. [Machine Learning 101 - AWS Machine Learning Web Day](https://www.slideshare.net/AWSAktuell/machine-learning-101-aws-machine-learning-web-day)
 
-6. [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
+6. [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
 
-7. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+7. [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
+
+8. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 
 ------
 
@@ -29,7 +31,6 @@
 ## 3. Supervised and Unsupervised Learning In Machine Learning
 
 1. [Supervised and Unsupervised Learning In Machine Learning  -- video 10 minutes](https://www.youtube.com/watch?v=kE5QZ8G_78c)
-
 
 ------
 
