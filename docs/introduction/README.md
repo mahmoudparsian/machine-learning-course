@@ -4,7 +4,7 @@
 
 1. [Introduction to Machine Learning](./intro_to_ML.pdf)
 
-2. [What is machine learning? by Dr. Kyle Bradbury](./lecture01_what_is_machine_learning.pdf)
+2. [What is machine learning? by Dr. Kyle Bradbury -- MP](./lecture01_what_is_machine_learning.pdf)
 
 3. [Introduction to Machine Learning -- blog](./intro_to_Machine_Learning_by_Anmol_Behl.pdf)
 
@@ -14,11 +14,13 @@
 
 6. [Machine Learning 101](https://www.inwerken.de/wp-content/uploads/2017/02/machinelearning101sithvr-170225115814.pdf)
 
-7. [Introduction to Machine Learning -- 70 Slides](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
+7. [Machine Learning Algorithm Overview -- MP](https://medium.com/ml-research-lab/machine-learning-algorithm-overview-5816a2e6303)
 
-8. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+8. [Introduction to Machine Learning -- 70 Slides -- MP](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 
-9. [An Introduction to Machine Learning Algorithms](https://litslink.com/blog/an-introduction-to-machine-learning-algorithms)
+9. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+
+10. [An Introduction to Machine Learning Algorithms](https://litslink.com/blog/an-introduction-to-machine-learning-algorithms)
 ------
 
 ## 2. Python Tutorials (required for using SciKit and Spark ML)
