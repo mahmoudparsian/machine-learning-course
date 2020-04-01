@@ -25,8 +25,8 @@ and one independent variable is defined by the formula
         
 where 
        y = estimated dependent variable score, 
-       c = constant, 
-       b = regression coefficient, and 
+       c = constant (intercept)
+       b = regression coefficient (slope), and 
        x = score on the independent variable.
 ````
 
@@ -47,6 +47,9 @@ where
 6. [Linear Regression 101 (Part 2 - Metrics)](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Metrics/)
 	* [Linear Regression 101 (Part 2 - Metrics) - PDF](./Linear_Regression_101_Part2_Metrics.pdf)
 
+7. [Introduction to Linear Regression slides -- pptx](./Introduction_to_Linear_Regression_slides.pptx)
+
+8. [Linear regression model -- pdf -- 38 slides -- MP](./Linear-regression-model.pdf)
 -----
 
 ### Linear Regression Examples
