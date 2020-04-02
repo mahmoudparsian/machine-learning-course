@@ -62,10 +62,10 @@
 | Assignment   | Percentage |
 |--------------|------------|
 | Quizz #1     |   13%      |
-| Quizz #1     |   13%      |
-| Quizz #1     |   13%      |
-| Quizz #1     |   13%      |
-| Quizz #1     |   13%      |
+| Quizz #2     |   13%      |
+| Quizz #3     |   13%      |
+| Quizz #4     |   13%      |
+| Quizz #5     |   13%      |
 | Midterm Exam |   15%      |
 | Final Exam   |   20%      |
 
