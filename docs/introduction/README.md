@@ -20,7 +20,7 @@
 
 9. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 
-10. [An Introduction to Machine Learning Algorithms](https://litslink.com/blog/an-introduction-to-machine-learning-algorithms)
+10. [An Introduction to Machine Learning Algorithms -- MP](https://litslink.com/blog/an-introduction-to-machine-learning-algorithms)
 ------
 
 ## 2. Python Tutorials (required for using SciKit and Spark ML)
