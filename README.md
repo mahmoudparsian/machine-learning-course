@@ -56,18 +56,23 @@
 * [Apache Spark Machine Learning](http://spark.apache.org/mllib/)
 * [handson-ml2](https://github.com/ageron/handson-ml2)
 
+--------
+
 ## Assignments
 
 -----------------------------
 | Assignment   | Percentage |
 |--------------|------------|
-| Quizz #1     |   13%      |
-| Quizz #2     |   13%      |
-| Quizz #3     |   13%      |
-| Quizz #4     |   13%      |
-| Quizz #5     |   13%      |
+| Quiz #1      |   13%      |
+| Quiz #2      |   13%      |
+| Quiz #3      |   13%      |
+| Quiz #4      |   13%      |
+| Quiz #5      |   13%      |
 | Midterm Exam |   15%      |
 | Final Exam   |   20%      |
+| Bonus        |   2%       |
+
+--------
 
 ## Exams
 
@@ -75,7 +80,7 @@
 * Date: TBDL
 * Time: 7:35 PM - 9:10 PM, PST
 
-----------------------------
+------------
 
 ## Final Exam: 
 * Date: TBDL
