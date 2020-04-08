@@ -19,11 +19,11 @@ or ratio-level independent variables.
 
 1. [Watch a video: Logistic regression: 9 minutes](https://www.youtube.com/watch?v=yIYKR4sgzI8)
 
-2. [INTRO_LOGISTIC_REGRESSION by Mahmoud Parsian](../../docs/logistic_regression/MP_INTRO_LOGISTIC_REGRESSION.txt.pdf)
+2. [INTRO_LOGISTIC_REGRESSION by Mahmoud Parsian -- MP](../../docs/logistic_regression/MP_INTRO_LOGISTIC_REGRESSION.txt.pdf)
   
 3. [Watch a video: Logistic Regression: 19 minutes](https://www.youtube.com/watch?v=vN5cNN2-HWE&t=592s)
  
-4. [LOGISTIC_REGRESSION slides -- 27](../../docs/logistic_regression/Logistic_Regression_slides_GOOD.pdf)
+4. [LOGISTIC_REGRESSION slides -- 27 -- MP](../../docs/logistic_regression/Logistic_Regression_slides_GOOD.pdf)
   
 5. [Logistic Regression in Python: 53 minutes video -- watch at home](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
     
