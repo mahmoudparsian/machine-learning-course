@@ -24,22 +24,24 @@ or ratio-level independent variables.
 3. [Watch a video: Logistic Regression: 19 minutes](https://www.youtube.com/watch?v=vN5cNN2-HWE&t=592s)
  
 4. [LOGISTIC_REGRESSION slides -- 27 -- MP](../../docs/logistic_regression/Logistic_Regression_slides_GOOD.pdf)
+
+5. [Logistic Regression. Simplified. -- MP](https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389)
   
-5. [Logistic Regression in Python: 53 minutes video -- watch at home](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+6. [Logistic Regression in Python: 53 minutes video -- watch at home](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
     
-6. [Logistic Regression: Machine Learning Algorithm -- video ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+7. [Logistic Regression: Machine Learning Algorithm -- video ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
 
-7. [Logistic Regression Details Pt1: Coefficients -- video](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+8. [Logistic Regression Details Pt1: Coefficients -- video](https://www.youtube.com/watch?v=vN5cNN2-HWE)
 
-8. [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
+9. [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
 
-9. [Logistic Regression using Python (scikit-learn)](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
+10. [Logistic Regression using Python (scikit-learn)](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
 
-10. [Building A Logistic Regression in Python, Step by Step](https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/)
+11. [Building A Logistic Regression in Python, Step by Step](https://datascienceplus.com/building-a-logistic-regression-in-python-step-by-step/)
 
-11. [Logistic Regression: A Concise Technical Overview](https://www.kdnuggets.com/2018/02/logistic-regression-concise-technical-overview.html)
+12. [Logistic Regression: A Concise Technical Overview](https://www.kdnuggets.com/2018/02/logistic-regression-concise-technical-overview.html)
 
-12. [Understanding Logistic Regression step by step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)
+13. [Understanding Logistic Regression step by step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)
 
 
 
