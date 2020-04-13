@@ -1,5 +1,9 @@
 # Introduction to Machine Learning
 
+## 0. Predictive Analytics
+
+1. [7 reasons you need predictive analytics today](./7-reasons-you-need-predictive-analytics.pdf)
+
 ## 1. Introduction
 
 1. [Introduction to Machine Learning](./intro_to_ML.pdf)
