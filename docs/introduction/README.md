@@ -4,6 +4,8 @@
 
 1. [7 reasons you need predictive analytics today](./7-reasons-you-need-predictive-analytics.pdf)
 
+2. [The Real Threat to Business Schools from Artificial Intelligence](https://knowledge.wharton.upenn.edu/article/the-real-threat-to-business-schools-from-artificial-intelligence/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200413+ai+nl&mkt_tok=eyJpIjoiTkdNeU16Y3hNRGN4Tm1RNCIsInQiOiJNYUJKVjJJYlBRN0VEQ0l3dlI2M3c5dmJzWjVUWnFZZmRBQlpMQmhxXC9ueUFxejlMS041THBOS2I0ODhPaUlnQnpEV21DZHB4cCs5VGlDRVZZbnBuSG45UXNubDNBWDRvSUpLVnN2cFNpRFwvbkVhVytKYk00V0l1MUVxa2tSNUhPIn0%3D)
+
 ## 1. Introduction
 
 1. [Introduction to Machine Learning](./intro_to_ML.pdf)
