@@ -43,7 +43,9 @@ or ratio-level independent variables.
 
 13. [Understanding Logistic Regression step by step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)
 
+14. [Modeling Expert, Logistic Regression, MIT](../../docs/logistic_regression/Modeling_Expert_Logistic_Regression_MIT)
 
+15. [Logistic Regression slides, Univ. of Michigan](../../docs/logistic_regression/Logistic_Regression_slides_UofM.pdf)
 
 ### Logistic Regression Examples:
 

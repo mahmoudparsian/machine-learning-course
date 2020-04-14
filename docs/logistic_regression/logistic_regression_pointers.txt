@@ -1,0 +1,26 @@
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+Building A Logistic Regression in Python, Step by Step
+Susan Li
+Susan L
+
+Understanding Logistic Regression in Python
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+
+What is Logistic Regression using Sklearn in Python – Scikit Learn
+https://intellipaat.com/blog/what-is-logistic-regression/
+
+Understanding Logistic Regression step by step
+Training a logistic regression classifier to predict people’s gender based on their weight and height.
+https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a
+
+
+LOGISTIC REGRESSION TUTORIAL
+Video
+
+https://www.youtube.com/watch?v=nz-FrbAa8dY
+
+
+Logistic Regression
+Detailed
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
+
