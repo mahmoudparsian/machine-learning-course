@@ -1,5 +1,7 @@
 # TF-IDF
 
+![TF-IDF](./TF-IDF.png)
+
 * What is TF-IDF?
 	* TF = term’s frequency
 	* IDF = inverse document frequency (measure of how significant that term is in the whole corpus.)
@@ -27,6 +29,12 @@ For a term t in a document d, the weight W(t,d)
 of term t in document d is given by:
 
 ````
+TF-IDF = TF(t,d) * IDF(t)
+
+or
+
+W(t, d) = TF(t,d) * IDF(t)
+
 W(t,d) = TF(t,d) *  log ( N / DF(t) )
 ````
 
