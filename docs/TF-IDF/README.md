@@ -36,6 +36,10 @@ or
 W(t, d) = TF(t,d) * IDF(t)
 
 W(t,d) = TF(t,d) *  log ( N / DF(t) )
+
+or 
+
+W(t,d) = TF(t,d) *  log ( N / (DF(t)+1) )
 ````
 
 Where:
