@@ -1,5 +1,7 @@
 # K-means Clustering
 
+## [K-means REQUIRED READING -- Chapter 9, Unsupervised Learning Techniques](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/ref=sr_1_3)
+
 ## [K-means in a Nutshell](./K-means-in-a-nutshell.md)
 
 ## K-means Definition
