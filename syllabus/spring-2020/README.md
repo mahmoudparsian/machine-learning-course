@@ -32,21 +32,19 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 7, April 20, 2020: K-means](./../../docs/kmeans/README.md)
+### [Session 7, April 20, 2020: Spam Detection using Logistic Regression -- Spark ML](./../../docs/logistic_regression/README.md)
+
+-----------
+
+### [Session 8, April 22, 2020: K-means -- lectures](./../../docs/kmeans/README.md)
 
 * K-means scikit-learn
 * K-means Spark-ML
 
 -------
 
-### [Session 8, April 22, 2020: K-means](./../../docs/kmeans/README.md)
+### [Session 9, April 27, 2020: K-means -- demos](./../../docs/kmeans/README.md)
 
-* K-means scikit-learn
-* K-means Spark-ML
-
---------
-
-### [Session 9, April 27, 2020: Naive Bayes](./../../docs/naive_bayes/README.md)
 * K-means scikit-learn
 * K-means Spark-ML
 
@@ -58,7 +56,9 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 11, May 4, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
+### [Session 11, May 4, 2020: Naive Bayes](./../../docs/naive_bayes/README.md)
+* K-means scikit-learn
+* K-means Spark-ML
 
 --------
 
@@ -66,34 +66,34 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 13, May 11, 2020: KNN Classification](./../../docs/KNN/README.md)
+### [Session 13, May 11, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
 --------
 
-### Session 14, May 13, 2020: Frequent Pattern Mining
+### [Session 14, May 13, 2020: KNN Classification](./../../docs/KNN/README.md)
 
 --------
 
-### Session 15, May 18, 2020: Decision Trees
-
--------
-
-### Session 16, May 20, 2020: LDA
-
--------
-
-### Session 17, May 25, 2020: PCA
-
--------
-
-### Session 18, May 27, 2020: TBDL
+### Session 15, May 18, 2020: Frequent Pattern Mining
 
 --------
 
-### Session 19, June 1, 2020: TBDL
+### Session 16, May 20, 2020: Decision Trees
+
+-------
+
+### Session 17, May 25, 2020: LDA
+
+-------
+
+### Session 18, June 1, 2020: PCA
+
+--------
+
+### Session 19, June 3, 2020: TBDL
 -----
 
-### Session 20, June 3, 2020: ML Review, Summary
+### Session 20, June 8, 2020: ML Review, Summary
 
 -------
 
