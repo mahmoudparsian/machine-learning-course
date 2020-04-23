@@ -61,3 +61,36 @@
 
 5. [In Depth: M-means Clustering: excerpt from the Python Data Science Handbook - code](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
 
+## K-means AGENDA: April 22, 2020
+
+````
+AGENDA:
+        SCU, Spring 2020
+        Machine Learning 
+        Date: April 22, 2020 
+        
+1. Simple Scatter Plots (YOU READ)
+   https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html
+   
+2. Introduction to K-means (Unsupervised ML Algorithm)
+
+3. Presentation (slides)
+   3.1 GIT: docs/kmeans/lecture14_clustering_MIT.pdf
+   3.2 GIT: docs/kmeans/lecture23-kmeans.pptx
+
+4. MUST READ:
+   Importance of Distance Metrics in Machine Learning Modelling
+   https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+
+5. In Depth: k-Means Clustering (MUST READ: VERY GOOD CHAPTER)
+   https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+
+6. Kmeans Demos (scikit) 
+      6.1 GIT demos/kmeans/Kmeans_simple_example_01.ipynb
+      6.2 GIT demos/kmeans/Kmeans_simple_example_02_tkinter.ipynb
+      6.3 GIT demos/kmeans/kmeans_example_01.ipynb
+      6.4 Example of K-Means Clustering in Python   
+          https://datatofish.com/k-means-clustering-python/
+   
+7. Kmeans Demo (Spark ML)  
+````
