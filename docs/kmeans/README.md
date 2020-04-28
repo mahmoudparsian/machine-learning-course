@@ -8,6 +8,9 @@
 
 * [Definition & Math Formula -- wiki](https://en.wikipedia.org/wiki/K-means_clustering)
 
+
+-----
+
 ## Clustering and K-means by Andrew Ng (Stanford University)
 
 1. [Clustering, Unsupervised Learning, by Andrew Ng -- video: 3 minutes](https://www.youtube.com/watch?v=Ev8YbxPu_bQ)
@@ -16,6 +19,7 @@
 
 3. [Clustering, Optimization Objective, by Andrew Ng -- video: 7 minutes](https://www.youtube.com/watch?v=LvgcfMOyREE&t=5s)
 
+-----
 
 ## Example of Kmeans
 
@@ -48,6 +52,7 @@
 
 14. [K-Means Clustering in Python -- detailed](https://mubaris.com/posts/kmeans-clustering/)
 
+-----
 
 ## K-means Spark & PySpark
 
@@ -60,6 +65,20 @@
 4. [In Depth: k-means Clustering: excerpt from the Python Data Science Handbook - docs](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
 
 5. [In Depth: M-means Clustering: excerpt from the Python Data Science Handbook - code](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
+
+-----
+
+## Finding optimal K for K-means
+
+1. [How to Determine the Optimal K for K-Means?](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb)
+
+2. [Determine the optimal value of K in K-Means Clustering](https://www.geeksforgeeks.org/ml-determine-the-optimal-value-of-k-in-k-means-clustering/)
+
+3. [Kmeans clustering with Elbow Method and Silhouette](https://www.kaggle.com/abhishekyadav5/kmeans-clustering-with-elbow-method-and-silhouette)
+
+4. [Yellowbrick — Clustering Evaluation Examples](https://www.kaggle.com/kautumn06/yellowbrick-clustering-evaluation-examples)
+
+-----
 
 ## K-means AGENDA: April 22, 2020
 
