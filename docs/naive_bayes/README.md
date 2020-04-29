@@ -1,37 +1,56 @@
 # Naive Bayes
 
-    Thomas Bayes (1701 – 1761) was an English 
-    statistician and philosopher who is known 
-    for formulating a specific case of the 
-    theorem that bears his name: Bayes' theorem.
+<img src="https://miro.medium.com/max/1400/1*39U1Ln3tSdFqsfQy6ndxOA.png"
+     alt="1*39U1Ln3tSdFqsfQy6ndxOA.png"
+     style="float: left; margin-right: 10px;"
+/>
 
+*   Thomas Bayes (1701 – 1761) was an English 
+    statistician and philosopher 
+    
+*   Bayes is known for formulating a specific 
+    case of the theorem that bears his name: Bayes' 
+    theorem.
 
-    In machine learning, Naïve Bayes classifiers 
+* In machine learning, Naïve Bayes classifiers 
     are  a  family  of  simple  "probabilistic 
     classifiers" based  on applying Bayes' theorem 
     with strong (naïve) independence assumptions 
     between the features. 
 
+````
     Possible k outcomes = {C1, C2, ..., Ck}
+
     i =  1, 2, ..., k
 
                    P(Ci) P(x | Ci)
     P(Ci | x) =  -------------------
                        P(x)
+````                     
                      
-                     
-    P(A | B) stands for "the conditional probability 
-    of A given B", or "the probability of A under 
-    the condition B", i.e. the probability of some 
-    event A under the assumption that the event B 
-    took place. 
-    
-    Conditional probability answers the question:
-    
-           how does the probability 
-           of an event change if we 
-           have extra information
+* `P(A | B)` stands for "the conditional 
+  probability of A given B", or "the 
+  probability of A under the condition B", 
+  i.e. the probability of some event A under 
+  the assumption that the event B took place. 
+  
+* `P(A | B) = P (A and B) / P(B)`
 
+* P(B) can not be ZERO since B has happened
+    
+* Conditional probability answers the question: 
+  how does the probability of an event change 
+  if we have extra information
+  
+* Independent Events: Events A and B are 
+  independent whenever `P(A | B) = P(A)`. 
+
+* Equivalently, events A and B are independent 
+  whenever `P(B | A) = P(B)`
+
+* When two events A and B are independent, 
+  we can use the multiplication rule for independent 
+  events : `P(A and B) = P(A) x P(B)`
 ------
 
 <img src="./naive_bayes_01.png"
@@ -57,10 +76,15 @@
 
 ## Conditional Probability: foundation for Naive Bayes
 
-1. [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
+1. [Probability: Terminology and Examples](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/MIT18_05S14_class2slides.pdf)
 
-2. [Conditional Probability, Independence and Bayes’ Theorem](http://www-math.mit.edu/~dav/05.dir/class3-prep.pdf)
+2. [Lesson slides: Understand conditional probability using scenarios -- 8 slides](https://learnzillion.com/resources/10582/)
 
+3. [Conditional Probability](https://www.mathsisfun.com/data/probability-events-conditional.html)
+
+4. [Conditional Probability, Independence and Bayes’ Theorem](http://www-math.mit.edu/~dav/05.dir/class3-prep.pdf)
+
+5. [Conditional Probability, Independence, Bayes’ Theorem -- MIT slides](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/MIT18_05S14_class3slides.pdf)
 ------
 
 ## Naive Bayes Videos
@@ -106,6 +130,13 @@
 11. [Python Machine Learning Tutorial: Naive Bayes Classifier](https://www.python-course.eu/naive_bayes_classifier_introduction.php)
 
 <!-- work on this: https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf -->
+
+12. [Naive Bayes Classifier: Learning Naive Bayes with Python](https://www.edureka.co/blog/naive-bayes-tutorial/)
+<!-- GOOD -- MP : make it lecture notes -->
+
+13. [Pure Python Solution: An Introduction to Naïve Bayes Classifier](https://towardsdatascience.com/introduction-to-naïve-bayes-classifier-fa59e3e24aaf)
+<!-- GOOD -- MP : make it lecture notes -->
+
 ------
 
 ## Naive Bayes Deep Understandings
