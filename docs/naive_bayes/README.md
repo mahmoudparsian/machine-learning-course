@@ -74,7 +74,7 @@
 
 ------
 
-## Conditional Probability: foundation for Naive Bayes
+## Probability, Conditional Probability: foundation for Naive Bayes
 
 1. [Probability: Terminology and Examples](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/MIT18_05S14_class2slides.pdf)
 
@@ -85,6 +85,8 @@
 4. [Conditional Probability, Independence and Bayes’ Theorem](http://www-math.mit.edu/~dav/05.dir/class3-prep.pdf)
 
 5. [Conditional Probability, Independence, Bayes’ Theorem -- MIT slides](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/class-slides/MIT18_05S14_class3slides.pdf)
+
+6. [Section 5.3 - Conditional Probability and Independence](https://www.gcsnc.com/site/handlers/filedownload.ashx?moduleinstanceid=66556&dataid=51958&FileName=5.3%20PowerPoint.pdf)
 ------
 
 ## Naive Bayes Videos
