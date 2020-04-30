@@ -66,6 +66,7 @@
 />
 
 ------
+## Proof!!!
 
 <img src="./bayes_derivation.jpg"
      alt="bayes_derivation.jpg"
