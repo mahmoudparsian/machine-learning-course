@@ -1,0 +1,147 @@
+I received couple of emails with questions about 
+KMeans quiz. I am sharing questions and my answers 
+(starting with MP>>) with the whole class.
+
+My advice: keep it simple.
+
+
+(B)
+You should also compute the confusion matrix for your 
+clustering results.  Submit results for one sample run 
+giving the initial clustering, final clusterings, and 
+confusion matrix. Interpret your results to a high-school 
+student.
+
+(C)
+Run K-means algorithm 50 times over the Iris dataset, 
+each time using a different initialization. For each run, 
+compute both the accuracy of clustering, as well as the 
+k-means objective function value of the final clustering. 
+Plot the distribution of these accuracies and also plot 
+the distribution of the objective function values. Finally, 
+give a scatter plot showing the correlation (if any) between 
+the clustering accuracy and the clustering objective 
+function value. Write a paragraph to interpret these graphs - 
+what can you conclude?
+
+For part B, I have two questions:
+
+1. When it asks to "submit results for one sample run giving 
+   the initial clustering, final clusterings, and confusion 
+   matrix," does the one sample refer to n_init (which sets 
+   the number of times we try to initialize the centroids)? So 
+   would it be asking us to set n_init to 1, since it asks for 
+   "one sample run?"
+   
+MP>>
+   One sample run means: running KMeans with some parameters
+   final clustering means: what soultion do you propose after 
+   running Kmeans 50 times.
+   
+   In SciKit, Kmeans is defined as: (https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+   class sklearn.cluster.KMeans(n_clusters=8, init='k-means++', n_init=10, max_iter=300, tol=0.0001, precompute_distances='auto', verbose=0, random_state=None, copy_x=True, n_jobs=None, algorithm='auto')
+
+   For example, you may run KMeans with different parameter 
+   initializations 50 times: at each iteration you may have 
+   different values for the  following parameters (you may 
+   change one or many parameters):
+   
+   n_clusters=3 (since we know, we will have 3 clusters)
+   n_init, 
+   max_iter, 
+   tol, 
+   random_state
+   
+   initial clustering means the first run (with some parameters)
+   final clustering means: what is your optimal/final solution
+
+2. For the "initial clustering," is that referring to when 
+   k-means iterates the first time time, meaning we set max_iter 
+   to 1, like what I have shown below? And "final clustering" would 
+   refer to simply letting k-means solve the lowest inertia, by 
+   setting max_iter to a high number (like 1000 in my example)?
+   
+MP>>  Yes.
+
+
+For part C, I have three questions:
+
+1.  When it asks to "run K-means algorithm 50 times over the 
+    Iris dataset, each time using a different initialization," 
+    is it referring to changing n_init for each run, increasing 
+    that parameter by one each time? 
+    
+MP>>  Yes. and you may change other parameters as well
+
+2. Does the k-means objective function value of the final 
+   clustering  refer to the minimized "error" or the inertia 
+   that results from the model?
+   
+MP>>   Yes.
+
+3. Finally, when I get my results for accuracy and objective function 
+   value for the 50 runs, besides the first initialization of the 
+   centroids, all of the other runs result in the same accuracy and 
+   objective function value (unless we lower the max_iter from the 
+   default 300). Do you still want us to plot these results(distribution 
+   and scatter)? It seems a bit meaningless to do so, since the conclusion 
+   is pretty straightforward (k-means is finding the optimal solution 
+   already, with just 2 initializations)?
+
+MP>> Each iteration can set different values for one/more:
+      n_init, 
+      max_iter, 
+      tol, 
+      random_state
+    
+    Then you might see different results.
+
+============
+
+1. First section: Do we need to use the elbow method to find the 
+   best k(clusters) and plot the clusters with the label like the 
+   graph below, correct?
+   
+MP>>   Since we know the optimal K is 3. You may still try different K's
+   such as 2, 3, 4, 5, 6, 7, 8, 9 , 10 and then use the elbow method.
+   I have not ask you to do the elbow method : but you may do it to 
+   learn better [ this is an extra work and not required as part of Quiz]
+
+2. Second section: could you please elaborate on "submit results for 
+   one sample run giving the initial clustering, final clusterings, 
+   and confusion matrix. do you mean by setting different “n_init=1” 
+   and “n_init = 10”? 
+   
+MP>> Yes, you may change n_init at each iteration along with other 
+     parameters I mentioned earlier.
+
+3. Second section: by using confusion matrix, we need to have pred 
+   and actual, how would you like us to divide the dataset?
+   
+MP>> You will not divide the data set at all. The last column 
+     and the clusters which you will create can be used for 
+     building the confusion matrix 
+
+4. Third section: In class you mentioned use a loop to run the 
+   kmeans 50 time with different centroid every time, does that 
+   mean if k=3, I need to give three different centroids for 50 times?
+   
+MP>> Yes, you may change the parameters (listed above) for KMeans at 
+     every iteration.
+
+5. Third section: Are we using “metrics.accuracy_score” to find the 
+   accuracy of clustering? What is the k-means objective function 
+   value?
+   
+MP>> Yes, you may use metrics.accuracy_score 
+     (or other methods suitable for KMeans)
+   
+     For details see: k-means objective function: https://www.saedsayad.com/clustering_kmeans.htm
+     Yes, you may use inertia_ (= sum of squared distances of samples to their closest cluster center).
+
+6. Third section: Are we supposed to find the k-mean objective 
+   function value for 50 runs and put them into a dataset then 
+   plot them into a scatter plot to find the relationship between 
+   each accuracy and each objective function values?
+   
+MP>>   Yes
