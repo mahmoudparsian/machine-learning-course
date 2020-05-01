@@ -1,6 +1,7 @@
-I received couple of emails with questions about 
-KMeans quiz. I am sharing questions and my answers 
-(starting with MP>>) with the whole class.
+I received a couple of emails with questions 
+about KMeans quiz. I am sharing questions and 
+my answers (starting with MP>>) with the whole 
+class.
 
 My advice: keep it simple.
 
