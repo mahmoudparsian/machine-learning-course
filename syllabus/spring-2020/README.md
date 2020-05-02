@@ -62,7 +62,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### Session 12, May 6, 2020: Midterm Exam, 7:35pm - 9:10pm PST
+## Session 12, May 6, 2020: Midterm Exam, 7:35pm - 9:10pm PST
 
 * The midterm exam is closed books/notes/friends/internet/software/...
 * I will be a proctor during exam with Zoom (if in case you have a question)
@@ -79,7 +79,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 ### [Session 15, May 18, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
-
+--------
 
 ### Session 16, May 20, 2020: Frequent Pattern Mining
 
