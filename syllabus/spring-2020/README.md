@@ -69,11 +69,11 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### [Session 13, May 11, 2020: KNN Classification](./../../docs/KNN/README.md)
+### [Session 13, May 11, 2020: Bayesian Networks](./../../docs/bayesian_network/README.md)
 
---------
+-------
 
-### [Session 14, May 13, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
+### [Session 14, May 13, 2020: KNN Classification](./../../docs/KNN/README.md)
 
 --------
 
@@ -81,19 +81,19 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### Session 16, May 20, 2020: Frequent Pattern Mining
+### [Session 16, May 20, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
 --------
 
-### Session 17, May 25, 2020: Decision Trees
+### Session 17, May 25, 2020: Frequent Pattern Mining
+
+--------
+
+### Session 18, May 27, 2020: Decision Trees
 
 -------
 
-### Session 18, May 27, 2020: LDA
-
--------
-
-### Session 19, June 1, 2020: PCA
+### Session 19, June 1, 2020: PCA, LDA
 
 -------
 

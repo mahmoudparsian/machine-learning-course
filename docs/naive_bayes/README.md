@@ -146,6 +146,9 @@
 <!-- GOOD -- MP : make it lecture notes -->
 
 ------
+## Naive Bayes classification algorithms
+
+1. [Comparing a variety of Naive Bayes classification algorithms](https://towardsdatascience.com/comparing-a-variety-of-naive-bayes-classification-algorithms-fc5fa298379e)
 
 ## Naive Bayes Deep Understandings
 
