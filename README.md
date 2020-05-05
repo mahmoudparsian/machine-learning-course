@@ -77,14 +77,14 @@
 ## Exams
 
 ## Midterm Exam: 
-* Date: TBDL
+* Date: Wednesday, May 6, 2020
 * Time: 7:35 PM - 9:10 PM, PST
 
 ------------
 
-## Final Exam: 
-* Date: TBDL
-* Time: 7:35 PM - 9:10 PM, PST
+## [Final Exam:](./exam_date/Spring_2020_Finals_Schedule.pdf) 
+* Date: Wednesday, June 10, 2020
+* Time: 5:45 PM - 9:10 PM, PST
 
 ----------------------------
 
