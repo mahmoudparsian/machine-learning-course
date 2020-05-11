@@ -69,6 +69,7 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
+### Session 13, May 11, 2020: Review Midterm Exam
 ### [Session 13, May 11, 2020: Bayesian Networks](./../../docs/bayesian_network/README.md)
 
 -------
