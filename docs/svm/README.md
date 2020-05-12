@@ -212,3 +212,8 @@ https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Support_V
 1. [PySpark Machine Learning Demo](http://www.bdxconsult.com/demo/PySpark_SVM_demo.pdf)
 
 2. [UCLA SVM](http://web.cs.ucla.edu/~mtgarip/linear.html)
+
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
+In-Depth: Support Vector Machines
+
