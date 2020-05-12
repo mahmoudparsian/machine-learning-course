@@ -42,6 +42,9 @@ https://upload.wikimedia.org/wikipedia/commons/0/0e/SimpleBayesNet.svg
 
 ![Simple Bayes Network](https://upload.wikimedia.org/wikipedia/commons/0/0e/SimpleBayesNet.svg)
 
+![Simple Bayes Network](https://www.norwegiancreations.com/wp-content/uploads/2018/09/Bayes_network_burglary_example.jpg)
+
+
 --------
 
 ## Example
