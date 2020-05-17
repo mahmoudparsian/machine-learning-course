@@ -1,6 +1,7 @@
 # KNN - K-nearest neighbors
 
 <img src="./knn_example_01.png" width="500" height="300" alt="Machine Learning">
+<img src="./knn_example_02.png" width="500" height="300" alt="Machine Learning">
 
 * The k-nearest neighbors (KNN) algorithm is a simple, 
   supervised machine learning algorithm that can be used 
