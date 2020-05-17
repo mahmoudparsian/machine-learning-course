@@ -28,15 +28,19 @@
 Steps for finding KNN:
 
 ````
-1. Determine the value of k = number of 
+1. Determine the value of K = number of 
    nearest neighbors to be considered.
+   
+   K = 1
+   K = 3
+   K = 5
 
 2. Calculate the distance (Euclidean is the most 
    popular implementation to work by hand) between 
    the query instance and all the training samples
    
 3. Sort the distance and determine nearest neighbors 
-   based on the k-th minimum distance
+   based on the K-th minimum distance
 
 4. Gather the category/class labels of the 
    k nearest neighbors.
