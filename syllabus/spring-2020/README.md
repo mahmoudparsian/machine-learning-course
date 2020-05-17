@@ -1,5 +1,8 @@
 
-### [Session 1, March 30, 2020: Introduction to Machine Learning](./../../docs/introduction/README.md)
+### Session 1, March 30, 2020: Introduction to Machine Learning
+* [Introduction to Machine Learning](./../../docs/introduction/README.md)
+* [Handling Non-Numeric Data](./../../docs/handling_non_numeric_data/README.md)
+* [Underfitting and Overfitting](./../../docs/underfitting_overfitting/README.md)
 
 -----
 
@@ -64,21 +67,21 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 ## Session 12, May 6, 2020: Midterm Exam, 7:35pm - 9:10pm PST
 
-* The midterm exam is closed books/notes/friends/internet/software/...
+* The midterm exam is a closed books/notes/friends/internet/software/...
 * I will be a proctor during exam with Zoom (if in case you have a question)
 
 --------
 
-### Session 13, May 11, 2020: Review Midterm Exam
 ### [Session 13, May 11, 2020: Bayesian Networks](./../../docs/bayesian_network/README.md)
+* Review Midterm Exam
+* Bayesian Networks Tutorial
+
+-------
+### [Session 14, May 13, 2020: Bayesian Networks](./../../docs/bayesian_network/README.md)
 
 -------
 
-### [Session 14, May 13, 2020: KNN Classification](./../../docs/KNN/README.md)
-
---------
-
-### [Session 15, May 18, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
+### [Session 15, May 18, 2020: KNN Classification](./../../docs/KNN/README.md)
 
 --------
 
@@ -86,15 +89,15 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### Session 17, May 25, 2020: Frequent Pattern Mining
+### [Session 17, May 25, 2020: SVM: Support Vector Machines](./../../docs/svm/README.md)
 
 --------
 
-### Session 18, May 27, 2020: Decision Trees
+### Session 18, May 27, 2020: Frequent Pattern Mining
 
--------
+--------
 
-### Session 19, June 1, 2020: PCA, LDA
+### Session 19, June 1, 2020: Decision Trees, PCA, LDA
 
 -------
 
@@ -102,12 +105,12 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 
 --------
 
-### Final Exam, June 8-11, 2020 (TBDL)
+### Final Exam
+
+* Date: Wednesday, June 10, 2020  
+* Time: 5:45 – 7:45 pm PST
+* The final exam is a closed books/notes/friends/internet/software/...
+* I will be a proctor during exam with Zoom's chat (if in case you have a question)
 
 -------
 
-### [Handling Non-Numeric Data](./../../docs/handling_non_numeric_data/README.md)
-
-------
-
-### [Underfitting and Overfitting](./../../docs/underfitting_overfitting/README.md)

@@ -1,5 +1,7 @@
 # KNN - K-nearest neighbors
 
+<img src="./knn_example_01.png" width="500" height="300" alt="Machine Learning">
+
 * The k-nearest neighbors (KNN) algorithm is a simple, 
   supervised machine learning algorithm that can be used 
   to solve both 
@@ -21,6 +23,28 @@
   certain assumptions, or parameters.
 
 ------- 
+## KNN Algorithm
+
+Steps for finding KNN:
+
+````
+1. Determine the value of k = number of 
+   nearest neighbors to be considered.
+
+2. Calculate the distance (Euclidean is the most 
+   popular implementation to work by hand) between 
+   the query instance and all the training samples
+   
+3. Sort the distance and determine nearest neighbors 
+   based on the k-th minimum distance
+
+4. Gather the category/class labels of the 
+   k nearest neighbors.
+
+5. Use simple majority of the category of 
+   nearest neighbors as the prediction 
+   label of the query instance
+````
 
 ## KNN Examples  
  

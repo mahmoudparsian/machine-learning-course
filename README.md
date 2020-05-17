@@ -84,7 +84,7 @@
 
 ## [Final Exam:](./exam_date/Spring_2020_Finals_Schedule.pdf) 
 * Date: Wednesday, June 10, 2020
-* Time: 5:45 PM - 9:10 PM, PST
+* Time: 5:45 PM - 7:45 PM, PST
 
 ----------------------------
 
@@ -145,6 +145,10 @@ The main focus of this class is to cover the following concepts:
 	* scikit-learn
 	* Spark ML
 
+* Bayesian Networks
+	* scikit-learn
+	* Spark ML
+	
 * Decision Trees
 	* scikit-learn
 	* Spark ML
