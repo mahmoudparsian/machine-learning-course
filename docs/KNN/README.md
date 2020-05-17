@@ -52,7 +52,7 @@ Steps for finding KNN:
 ````
 -------
 
-<img src="./knn_example_03.png" width="500" height="300" alt="Machine Learning">
+<img src="./knn_example_03.png" width="800" height="500" alt="Machine Learning">
 
 -------
 ## KNN Examples  
