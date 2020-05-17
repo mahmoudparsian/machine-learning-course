@@ -1,4 +1,4 @@
-# KNN - K-nearest neighbors
+# K-nearest neighbors (KNN)
 
 <img src="./knn_example_01.png" width="500" height="300" alt="Machine Learning">
 <img src="./knn_example_02.png" width="500" height="300" alt="Machine Learning">
@@ -50,7 +50,11 @@ Steps for finding KNN:
    nearest neighbors as the prediction 
    label of the query instance
 ````
+-------
 
+<img src="./knn_example_03.png" width="500" height="300" alt="Machine Learning">
+
+-------
 ## KNN Examples  
  
 1. [KNN Numerical example](https://people.revoledu.com/kardi/tutorial/KNN/KNN_Numerical-example.html)
