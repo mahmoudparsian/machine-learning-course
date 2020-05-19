@@ -23,6 +23,11 @@
   does not require that the population being analyzed meet 
   certain assumptions, or parameters.
 
+* KNN is a Lazy binding
+	* The kNN algorithm belongs to a family of instance-based, competitive learning and lazy learning algorithms.
+	* Lazy learning refers to the fact that the algorithm does not build a model until the time a prediction is required. 
+	* It is lazy because it only does work at the last second. 
+  
 ------- 
 ## KNN Algorithm
 
