@@ -94,6 +94,12 @@ of the decision boundary in the feature space.
   subset. Subsequently, probabilistic classifiers 
   likely require more computing resources.
 
+### Can SVM be used for multi class classification?
+* Yes. While the other answers are right in that, SVM 
+(as originally proposed in Vapnik's paper) is inherently 
+binary classifier and that often multiclass SVMs are 
+implemented in one vs all fashion.
+
 -----
 
 ## Videos:
