@@ -22,29 +22,35 @@
 />
 
 -------
+<img src="./svm_04.png"
+     alt="svm_04.png"
+     style="float: left; margin-right: 10px;"
+/>
 
-### Introduced in 1992
+-------
+
+### 1. Introduced in 1992
 * Support Vector Machine (SVM) was first 
   heard in 1992, introduced by Boser, Guyon, 
   and  Vapnik in COLT-92. 
 
-### SVM for Classification
+### 2. SVM for Classification
 * Support vector machines (SVMs) are a set 
   of related supervised learning methods used 
   for classification and regression. 
 
-### SVM as a generalized linear classifiers
+### 3. SVM as a generalized linear classifiers
 * SVMs belong to a family of generalized linear 
 classifiers.
 
-### SVM as supervised ML
+### 4. SVM as supervised ML
 * Support Vector Machine (SVM) is a supervised 
   machine learning algorithm which can be used 
   for both classification or regression challenges. 
   However,  it is mostly used in classification 
   problems. 
 
-### SVM as Binary Classification
+### 5. SVM as Binary Classification
 * Support vector machines (SVMs) are a set of 
   supervised learning methods used for classification, 
   regression and outliers detection.
