@@ -16,8 +16,8 @@
 
 -------
 
-<img src="./svm_02.gif"
-     alt="svm_02.gif"
+<img src="./svm_03.gif"
+     alt="svm_03.gif"
      style="float: left; margin-right: 10px;"
 />
 
