@@ -236,3 +236,36 @@ https://www.bogotobogo.com/python/scikit-learn/scikit_machine_learning_Support_V
 https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
 In-Depth: Support Vector Machines
 
+-----
+
+## Scikit Examples for SVM
+
+````
+1. Support Vector Machines for dummies; A Simple Explanation
+https://blog.aylien.com/support-vector-machines-for-dummies-a-simple-explanation/
+
+2. Linear SVC Machine learning SVM example with Python
+https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/
+        
+3. Support Vector Machines with Scikit-learn
+https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
+
+4. Implementing SVM and Kernel SVM with Python's Scikit-Learn
+https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
+
+5. Support Vector Machines(SVM) in a Nutshell
+https://medium.com/datadriveninvestor/getting-started-with-svm-551fec2589d5
+
+6. In-Depth: Support Vector Machines
+https://share.cocalc.com/share/8b892baf91f98d0cf6172b872c8ad6694d0f7204/PythonDataScienceHandbook/notebooks/05.07-Support-Vector-Machines.ipynb
+
+7. Understanding Support Vector Machine(SVM) algorithm from examples (along with code)
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+8. Support Vector Machine Python Example [DETAILED]
+https://towardsdatascience.com/support-vector-machine-python-example-d67d9b63f1c8
+
+9. Choosing C Hyperparameter for SVM Classifiers: Examples with Scikit-Learn
+https://queirozf.com/entries/choosing-c-hyperparameter-for-svm-classifiers-examples-with-scikit-learn
+
+````
