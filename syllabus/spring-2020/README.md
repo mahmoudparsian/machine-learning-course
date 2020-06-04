@@ -102,8 +102,8 @@ https://www.kaggle.com/abhikaggle8/pima-diabetes-classification/data
 -------
 
 ### Session 20, June 3, 2020: ML Review, Summary
-* Decision Trees, PCA, LDA, Frequent Pattern Mining
-
+* [End-to-End Machine Learning](./../../docs/introduction/lecture02_end-to-end_machine_learning.pdf)
+* Discuss Final Exam
 --------
 
 ### Final Exam
